@@ -1,0 +1,238 @@
+<div align="center">
+<h1>Awesome Nanobot</h1>
+<p><strong>nanobot 资源大全 - 精选工具、技能、插件与项目</strong></p>
+<p>
+<a href="https://github.com/HKUDS/nanobot">官方仓库</a> •
+<a href="#官方资源">资源</a> •
+<a href="#技能与插件">技能</a> •
+<a href="#社区">社区</a>
+</p>
+<p>
+简体中文 | <a href="README.md">English</a>
+</p>
+</div>
+
+---
+
+> **注意**：本文档聚焦于 [HKUDS/nanobot](https://github.com/HKUDS/nanobot)（Python 项目）。GitHub 上还有一个名称相似的项目，请确保你使用的是正确的仓库。
+
+## 目录
+
+- [项目简介](#项目简介)
+- [官方资源](#官方资源)
+- [快速上手](#快速上手)
+- [LLM 提供商](#llm-提供商)
+- [聊天渠道](#聊天渠道)
+- [MCP 支持](#mcp-支持)
+- [部署方式](#部署方式)
+- [技能与插件](#技能与插件)
+- [生态项目](#生态项目)
+- [桌面客户端](#桌面客户端)
+- [语言移植版](#语言移植版)
+- [教程资源](#教程资源)
+- [安全指南](#安全指南)
+- [社区交流](#社区交流)
+- [贡献指南](#贡献指南)
+
+---
+
+## 项目简介
+
+**nanobot** 是一个超轻量个人 AI Assistant / Agent 框架，灵感来自 OpenClaw。
+
+**核心特点：**
+- 📦 约 ~4,000 行核心代码，强调可读性与研究友好
+- 🔌 多 LLM Provider、多 Chat Channel、多工具支持
+- 💾 长期记忆、定时任务
+- 🚀 MCP 支持、进度流式输出
+
+---
+
+## 官方资源
+
+| 资源 | 说明 |
+|------|------|
+| [GitHub 仓库](https://github.com/HKUDS/nanobot) | 官方主仓库 |
+| [Releases](https://github.com/HKUDS/nanobot/releases) | 版本更新日志 |
+| [安全策略](https://github.com/HKUDS/nanobot/blob/main/SECURITY.md) | 生产环境必读 |
+| [用户画像模板](https://github.com/HKUDS/nanobot/blob/main/workspace/USER.md) | 个性化配置模板 |
+| [nanobot.club](http://nanobot.club/) | 官方网站 |
+
+## 快速上手
+
+| 安装方式 | 命令 |
+|----------|------|
+| **uv（推荐）** | `uv tool install nanobot-ai` |
+| **PyPI** | `pip install nanobot-ai` |
+| **源码安装** | `git clone https://github.com/HKUDS/nanobot.git && cd nanobot && pip install -e .` |
+
+**基本命令：**
+```bash
+nanobot onboard    # 初始化配置
+nanobot agent      # 启动 CLI 对话
+nanobot gateway    # 启动网关（接入聊天渠道）
+```
+
+📁 **详细教程**：[docs/TUTORIAL_CN.md](docs/TUTORIAL_CN.md) | [English Tutorial](docs/TUTORIAL.md)
+
+## LLM 提供商
+
+nanobot 支持多种大语言模型提供商：
+
+| 提供商 | 类型 | 说明 |
+|--------|------|------|
+| OpenRouter | API | 单一 API 接入多种模型 |
+| Anthropic | API | Claude 系列模型 |
+| OpenAI | API | GPT 系列模型 |
+| DeepSeek | API | DeepSeek 模型 |
+| Gemini | API | Google Gemini 模型 |
+| Qwen / DashScope | API | 阿里通义千问 |
+| Moonshot | API | Kimi 模型 |
+| Groq | API | 高速推理 |
+| 自定义端点 | API | OpenAI 兼容 API |
+| GitHub Copilot | OAuth | OAuth 认证 |
+| OpenAI Codex | OAuth | OAuth 认证 |
+
+📖 **配置详情**：[官方 README - Providers](https://github.com/HKUDS/nanobot#providers)
+
+## 聊天渠道
+
+| 渠道 | 状态 | 说明 |
+|------|------|------|
+| Telegram | ✅ 稳定 | 推荐新手使用 |
+| Discord | ✅ 稳定 | 完整支持 |
+| 飞书 | ✅ 稳定 | 国内企业 IM |
+| 钉钉 | ✅ 稳定 | 国内企业 IM |
+| WhatsApp | ✅ 稳定 | 需要 Node.js 桥接 |
+| Slack | ✅ 稳定 | 企业聊天 |
+| Email | ✅ 稳定 | IMAP/SMTP |
+| QQ | ✅ 稳定 | 通过 go-cqhttp |
+| MoChat | ✅ 稳定 | Claw IM |
+
+📖 **渠道配置**：[官方 README - Chat Apps](https://github.com/HKUDS/nanobot#-chat-apps)
+
+## MCP 支持
+
+nanobot 支持 Model Context Protocol (MCP) 扩展能力：
+
+| 传输方式 | 说明 |
+|----------|------|
+| stdio | 本地 MCP 服务器 |
+| HTTP | 远程 MCP 服务器 |
+
+📖 **MCP 配置**：[官方 README - MCP](https://github.com/HKUDS/nanobot#mcp-model-context-protocol)
+
+## 部署方式
+
+| 方式 | 说明 |
+|------|------|
+| [Docker](https://github.com/HKUDS/nanobot#-docker) | 官方 Docker 支持 |
+| [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | 一键部署 |
+| [Zeabur 模板](https://zeabur.com/templates/5XVJX8) | 一键云端部署 |
+
+## 技能与插件
+
+### 官方内置技能
+
+| 技能 | 说明 | 状态 |
+|------|------|------|
+| [memory](https://github.com/HKUDS/nanobot/tree/main/nanobot/skills/memory) | 长期记忆系统 | 内置 |
+| [cron](https://github.com/HKUDS/nanobot/tree/main/nanobot/skills/cron) | 定时任务 | 内置 |
+| [weather](https://github.com/HKUDS/nanobot/tree/main/nanobot/skills/weather) | 天气预报 | 内置 |
+| [clawhub](https://github.com/HKUDS/nanobot/tree/main/nanobot/skills/clawhub) | 技能注册中心搜索 | 内置 |
+| [skill-creator](https://github.com/HKUDS/nanobot/tree/main/nanobot/skills/skill-creator) | 创建自定义技能 | 内置 |
+
+### 社区技能
+
+| 技能 | 作者 | 说明 |
+|------|------|------|
+| [nanobot-skills](https://github.com/ruslanstarikov/nanobot-skills) | ruslanstarikov | 自定义技能集合 |
+| [nanobot-skills](https://github.com/CCAgentOrg/nanobot-skills) | CCAgentOrg | github-watcher, youtube-recommender |
+| [nanobot-skill-weather](https://github.com/kombalarasoftware-cmd/nanobot-skill-weather) | kombalarasoftware | 天气技能 |
+| [nanobot-skill-finance](https://github.com/kombalarasoftware-cmd/nanobot-skill-finance) | kombalarasoftware | 金融数据技能 |
+| [nanobot-skill-notes](https://github.com/kombalarasoftware-cmd/nanobot-skill-notes) | kombalarasoftware | 笔记管理 |
+| [nanobot-skill-calendar](https://github.com/kombalarasoftware-cmd/nanobot-skill-calendar) | kombalarasoftware | 日历集成 |
+| [nanobot-skill-translator](https://github.com/kombalarasoftware-cmd/nanobot-skill-translator) | kombalarasoftware | 翻译技能 |
+
+### 技能注册中心
+
+| 平台 | 说明 |
+|------|------|
+| [ClawHub](https://clawhub.ai/) | 官方技能注册中心，搜索和安装技能 |
+
+## 生态项目
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，支持 nanobot 渠道 |
+| [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
+
+## 桌面客户端
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 11 | Tauri 管理面板 |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 13 | Tauri + React 桌面客户端 |
+
+## 语言移植版
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 10 | .NET 10 移植版 |
+| [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 4 | Rust 移植版 |
+
+## 集成项目
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 94 | QQ 机器人插件合集 |
+
+## 教程资源
+
+| 资源 | 语言 | 类型 |
+|------|------|------|
+| [完整教程](docs/TUTORIAL_CN.md) | 中文 | 从安装到部署完整指南 |
+| [Tutorial](docs/TUTORIAL.md) | English | Complete guide |
+| [DataCamp 教程](https://www.datacamp.com/tutorial/nanobot-tutorial) | English | 第三方教程 |
+| [YouTube 演示](https://www.youtube.com/watch?v=AKxiKb42Cqk) | English | Ollama + Telegram 安装演示 |
+| [架构解读](https://jinlow.medium.com/nanobot-architecture-teardown-4-000-lines-achieving-openclaw-capability-3f242113ccbc) | English | 架构深度分析 |
+
+## 安全指南
+
+> ⚠️ **重要**：生产环境部署前请务必阅读 [安全策略](https://github.com/HKUDS/nanobot/blob/main/SECURITY.md)
+
+**关键安全实践：**
+
+| 实践 | 说明 |
+|------|------|
+| API Key 管理 | 不要提交到仓库；设置 `chmod 600 ~/.nanobot/config.json` |
+| 渠道访问控制 | 生产环境必须配置 `allowFrom` 白名单 |
+| 工作空间限制 | 设置 `tools.restrictToWorkspace=true` |
+| 命令执行 | 使用受限用户运行；开启审计日志 |
+| 依赖安全 | 定期运行 `pip-audit` / `npm audit` |
+
+## 社区交流
+
+| 平台 | 链接 |
+|------|------|
+| GitHub Discussions | [github.com/HKUDS/nanobot/discussions](https://github.com/HKUDS/nanobot/discussions) |
+| Discord | [discord.gg/MnCvHqpUGB](https://discord.gg/MnCvHqpUGB) |
+| 微信 / 飞书群 | 查看 [COMMUNICATION.md](https://github.com/HKUDS/nanobot/blob/main/COMMUNICATION.md) |
+
+## 贡献指南
+
+欢迎贡献！提交 PR 前请阅读 [贡献指南](CONTRIBUTING.md)。
+
+**规范要求：**
+- 只添加可验证的链接
+- 每条资源附带简要说明
+- 第三方内容需明确标注
+- 定期检查链接可用性
+
+---
+
+## 许可证
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+在法律允许的范围内，贡献者已放弃本作品的所有版权和相关权利。
