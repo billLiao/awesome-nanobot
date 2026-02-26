@@ -153,6 +153,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
+| [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
 
 ## Desktop & GUI
 
@@ -160,6 +161,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 11 | Tauri-based management dashboard |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 13 | Tauri + React desktop client |
+| [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | Desktop GUI client for nanobot |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 6 | Web UI with visual configuration & knowledge management |
 
 ## Language Ports
 
@@ -167,6 +170,11 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 10 | .NET 10 port |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 4 | Rust port |
+| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 6 | AI agent with long-term memory (.NET 10) |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 5 | Ultra-Lightweight AI Assistant in Go |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 3 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
+| [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | Personalized AI assistant fork |
+| [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant integration (Shell) |
 
 ## Integrations
 
