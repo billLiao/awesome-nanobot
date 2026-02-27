@@ -154,6 +154,9 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 50 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | Multi-agent swarm coordination |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 13 | AI agent framework |
 
 ## Desktop & GUI
 
@@ -175,6 +178,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 3 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant integration (Shell) |
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 18 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
+| [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 18 | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
 
 ## Integrations
 
