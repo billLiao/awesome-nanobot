@@ -156,7 +156,9 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 50 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | Multi-agent swarm coordination |
+| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 15 | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 13 | AI agent framework |
+| [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | Lightweight agent framework based on nanobot |
 
 ## Desktop & GUI
 
