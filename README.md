@@ -154,11 +154,13 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 50 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 60 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | Multi-agent swarm coordination |
-| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 15 | Rust-based AI agent framework |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 13 | AI agent framework |
+| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 17 | Rust-based AI agent framework |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 14 | AI agent framework |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | Lightweight agent framework based on nanobot |
+| [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | Single-file Web console with real-time streaming chat |
+| [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | Automated installation script (Docker + Redis + Qdrant) |
 
 ## Desktop & GUI
 
@@ -175,9 +177,9 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 10 | .NET 10 port |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 4 | Rust port |
-| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 6 | AI agent with long-term memory (.NET 10) |
+| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 12 | AI agent with long-term memory (.NET 10) |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 5 | Ultra-Lightweight AI Assistant in Go |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 3 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 6 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant integration (Shell) |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 18 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |

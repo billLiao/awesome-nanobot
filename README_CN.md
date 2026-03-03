@@ -167,11 +167,13 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，支持 nanobot 渠道 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | 企业级 AI 平台，支持多业务控股 |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 50 | 安全自主 AI 代理舰队平台 — Docker 隔离，多提供商支持 |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 60 | 安全自主 AI 代理舰队平台 — Docker 隔离，多提供商支持 |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | 多代理集群协调 |
-| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 15 | 基于 Rust 的 AI 代理框架 |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 13 | AI 代理框架 |
+| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 17 | 基于 Rust 的 AI 代理框架 |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 14 | AI 代理框架 |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | 基于 nanobot 的轻量级代理框架 |
+| [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | 单文件 Web 控制台，实时流式聊天 |
+| [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动安装脚本（Docker + Redis + Qdrant） |
 
 ## 桌面客户端
 
@@ -188,9 +190,9 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 |------|-------|------|
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 10 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 4 | Rust 移植版 |
-| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 6 | 带长期记忆的 AI 代理（.NET 10） |
+| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 12 | 带长期记忆的 AI 代理（.NET 10） |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 5 | Go 语言超轻量 AI 助手 |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 3 | 下一代 AI 代理（nanobot-rs-pro, Rust） |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 6 | 下一代 AI 代理（nanobot-rs-pro, Rust） |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant 集成（Shell） |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 18 | 🦞 运行在自己设备上的个人 AI 助手，nano 版本（TypeScript） |
