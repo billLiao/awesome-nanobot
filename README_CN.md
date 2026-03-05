@@ -178,6 +178,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 8 | 最优系统代理 — 最大化信号提取 |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3天掌握 AI 代理助手 — 引导式学习计划 |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | Rust 构建的 AI 代理平台 — 多模型、MCP 工具支持 |
+| [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 0 | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 
 ## 桌面客户端
 

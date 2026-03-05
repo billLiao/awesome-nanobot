@@ -165,6 +165,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 8 | Optimal System Agent — maximizes signal extraction |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | Master AI Agent Assistant in 3 Days — guided study plan |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | AI Agent Platform built in Rust — Multi-model, MCP tools |
+| [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 0 | OpenViking knowledge base integration — RAG, semantic search, vector embeddings |
 
 ## Desktop & GUI
 
