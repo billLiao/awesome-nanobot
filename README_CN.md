@@ -167,13 +167,17 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，支持 nanobot 渠道 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | 企业级 AI 平台，支持多业务控股 |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 60 | 安全自主 AI 代理舰队平台 — Docker 隔离，多提供商支持 |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 61 | 安全自主 AI 代理舰队平台 — Docker 隔离，多提供商支持 |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | 多代理集群协调 |
-| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 17 | 基于 Rust 的 AI 代理框架 |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 14 | AI 代理框架 |
+| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 19 | 基于 Rust 的 AI 代理框架 |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 15 | 具5层安全网关的自我进化 AI 代理框架 |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | 基于 nanobot 的轻量级代理框架 |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动安装脚本（Docker + Redis + Qdrant） |
+| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 19 | Android 个人 AI 助手 — nanobot 风格 |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 8 | 最优系统代理 — 最大化信号提取 |
+| [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3天掌握 AI 代理助手 — 引导式学习计划 |
+| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | Rust 构建的 AI 代理平台 — 多模型、MCP 工具支持 |
 
 ## 桌面客户端
 

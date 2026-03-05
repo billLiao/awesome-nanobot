@@ -154,13 +154,17 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 60 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 61 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | Multi-agent swarm coordination |
-| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 17 | Rust-based AI agent framework |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 14 | AI agent framework |
+| [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 19 | Rust-based AI agent framework |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 15 | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | Lightweight agent framework based on nanobot |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | Automated installation script (Docker + Redis + Qdrant) |
+| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 19 | Personal AI assistant for Android — nanobot-inspired |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 8 | Optimal System Agent — maximizes signal extraction |
+| [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | Master AI Agent Assistant in 3 Days — guided study plan |
+| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | AI Agent Platform built in Rust — Multi-model, MCP tools |
 
 ## Desktop & GUI
 
