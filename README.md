@@ -151,52 +151,60 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1149 | Build MCP Agents — Official nanobot with enhanced MCP support |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 137 | The original Tiny Claw as your personal autonomous AI companion |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | Multi-user support for OpenClaw/NanoBot |
+| [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 62 | ZeroBot-style QQ channel/group bot framework |
+| [FastSkills](https://github.com/nj19257/FastSkills) | ⭐ 38 | MCP server that brings Agent Skills to any MCP-compatible agent |
+| [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 36 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | Enterprise AI platform for multi-business holdings |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 61 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 19 | Rust-based AI agent framework |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 15 | Self-evolving AI agent framework with 5-layer safety gateway |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 16 | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | Lightweight agent framework based on nanobot |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | Automated installation script (Docker + Redis + Qdrant) |
-| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 19 | Personal AI assistant for Android — nanobot-inspired |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 8 | Optimal System Agent — maximizes signal extraction |
+| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 24 | Personal AI assistant for Android — nanobot-inspired |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 18 | Optimal System Agent — maximizes signal extraction |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | Master AI Agent Assistant in 3 Days — guided study plan |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | AI Agent Platform built in Rust — Multi-model, MCP tools |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 0 | OpenViking knowledge base integration — RAG, semantic search, vector embeddings |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | Manage multiple AI agent teams collaborating in isolated workspaces |
-
+| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 9 | Feishu-specific version with enhanced features |
+| [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | Dockerized setup for nanobot |
 ## Desktop & GUI
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 11 | Tauri-based management dashboard |
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 13 | Tauri + React desktop client |
+| [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 39 | Tauri-based management dashboard |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 106 | Plug-and-play nanobot for Windows 10+ |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React desktop client |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | Desktop GUI client for nanobot |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 6 | Web UI with visual configuration & knowledge management |
-
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 11 | Web UI with visual configuration & knowledge management |
 ## Language Ports
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 10 | .NET 10 port |
-| [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 4 | Rust port |
-| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 12 | AI agent with long-term memory (.NET 10) |
+| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 port |
+| [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 5 | Rust port |
+| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 15 | AI agent with long-term memory (.NET 10) |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 5 | Ultra-Lightweight AI Assistant in Go |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 6 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 7 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant integration (Shell) |
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 18 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
-| [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 18 | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
-
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 28 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
+| [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 28 | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
+| [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | Go implementation of nanobot |
+| [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 4 | Lightweight LLM Agent framework for learning |
+| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 4 | Go version of nanobot |
 ## Integrations
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 94 | QQ bot plugin collection |
-
+| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 99 | QQ bot plugin collection |
 ## Tutorials
 
 | Resource | Language | Type |
