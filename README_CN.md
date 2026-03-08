@@ -182,6 +182,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动化安装脚本（Docker + Redis + Qdrant）|
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 24 | Android 个人 AI 助手 — 灵感来自 nanobot |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 18 | 最优系统代理 — 最大化信号提取 |
+| [NanoClaw](https://github.com/qwibitai/nanoclaw) | ⭐ 20360 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | Rust 编写的 AI 代理平台 — 多模型、MCP 工具 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 0 | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
