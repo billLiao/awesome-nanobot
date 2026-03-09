@@ -164,8 +164,8 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1152 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
-| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 139 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1153 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 140 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 62 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
@@ -182,13 +182,19 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动化安装脚本（Docker + Redis + Qdrant）|
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 25 | Android 个人 AI 助手 — 灵感来自 nanobot |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 18 | 最优系统代理 — 最大化信号提取 |
-| [NanoClaw](https://github.com/qwibitai/nanoclaw) | ⭐ 20360 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
+| [NanoClaw](https://github.com/qwibbitai/nanoclaw) | ⭐ 20534 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | Rust 编写的 AI 代理平台 — 多模型、MCP 工具 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 0 | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 9 | 飞书专用版本，增强功能 |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
+| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 5 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
+| [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
+| [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | nanobot 代理通信的 A2A 代理 |
+| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 1 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
+| [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 0 | Home Assistant 的 nanobot 对话代理自定义组件 |
+| [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |
