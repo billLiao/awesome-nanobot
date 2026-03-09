@@ -164,23 +164,23 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1149 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
-| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 137 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1152 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 139 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 62 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
-| [FastSkills](https://github.com/nj19257/FastSkills) | ⭐ 38 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
+| [FastSkills](https://github.com/nj19257/FastSkills) | ⭐ 104 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 36 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | 多业务控股企业 AI 平台 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 16 | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 89 | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 19 | Rust 编写的 AI 代理框架 |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 16 | 具有 5 层安全网关的自我进化 AI 代理框架 |
-| [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 2 | 基于 nanobot 的轻量级代理框架 |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 17 | 具有 5 层安全网关的自我进化 AI 代理框架 |
+| [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 3 | 基于 nanobot 的轻量级代理框架 |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 5 | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动化安装脚本（Docker + Redis + Qdrant）|
-| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 24 | Android 个人 AI 助手 — 灵感来自 nanobot |
+| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 25 | Android 个人 AI 助手 — 灵感来自 nanobot |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 18 | 最优系统代理 — 最大化信号提取 |
 | [NanoClaw](https://github.com/qwibitai/nanoclaw) | ⭐ 20360 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3 天掌握 AI 代理助手 — 学习计划 |
@@ -205,11 +205,11 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 5 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 15 | 具有长期记忆的 AI 代理（.NET 10）|
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 5 | 超轻量级 Go 语言 AI 助手 |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 102 | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 7 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant 集成（Shell）|
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 28 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 29 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 28 | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 4 | 用于学习的轻量级 LLM 代理框架 |
