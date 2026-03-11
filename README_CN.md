@@ -189,11 +189,11 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 10 | 飞书专用版本，增强功能 |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 2 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 3 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 5 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | nanobot 代理通信的 A2A 代理 |
-| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 1 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
+| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 6 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 0 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
 ## 桌面客户端
@@ -204,7 +204,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 106 | Windows 10+ 即插即用 nanobot |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React 桌面客户端 |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | nanobot 桌面 GUI 客户端 |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 11 | Web UI，可视化配置和知识管理 |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 14 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
 
 | 项目 | Stars | 描述 |
@@ -235,6 +235,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [DataCamp 教程](https://www.datacamp.com/tutorial/nanobot-tutorial) | English | 第三方教程 |
 | [YouTube 演示](https://www.youtube.com/watch?v=AKxiKb42Cqk) | English | Ollama + Telegram 安装演示 |
 | [架构解读](https://jinlow.medium.com/nanobot-architecture-teardown-4-000-lines-achieving-openclaw-capability-3f242113ccbc) | English | 架构深度分析 |
+| [nanobot-learn](https://github.com/WOWCharlotte/nanobot-learn) | 中文 | 七天学会 Nanobot 设计原理 |
 
 ## 安全指南
 

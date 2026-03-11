@@ -176,11 +176,11 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | Manage multiple AI agent teams collaborating in isolated workspaces |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 10 | Feishu-specific version with enhanced features |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | Dockerized setup for nanobot |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 2 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 3 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 5 | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | A2A Proxy for nanobot agent communication |
-| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 1 | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
+| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 6 | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 0 | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
 ## Desktop & GUI
@@ -191,7 +191,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 106 | Plug-and-play nanobot for Windows 10+ |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React desktop client |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | Desktop GUI client for nanobot |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 11 | Web UI with visual configuration & knowledge management |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 14 | Web UI with visual configuration & knowledge management |
 ## Language Ports
 
 | Project | Stars | Description |
@@ -222,6 +222,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [DataCamp Tutorial](https://www.datacamp.com/tutorial/nanobot-tutorial) | English | Third-party tutorial |
 | [YouTube Demo](https://www.youtube.com/watch?v=AKxiKb42Cqk) | English | Ollama + Telegram setup |
 | [Medium Architecture](https://jinlow.medium.com/nanobot-architecture-teardown-4-000-lines-achieving-openclaw-capability-3f242113ccbc) | English | Architecture deep-dive |
+| [nanobot-learn](https://github.com/WOWCharlotte/nanobot-learn) | 中文 | Learn Nanobot Design Principles in 7 Days |
 
 ## Security
 
