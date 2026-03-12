@@ -164,7 +164,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1174 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1175 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 140 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | OpenClaw/NanoBot 多用户支持 |
@@ -189,11 +189,11 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 10 | 飞书专用版本，增强功能 |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 3 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
-| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 5 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 4 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
+| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 8 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | nanobot 代理通信的 A2A 代理 |
-| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 6 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
+| [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 12 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 0 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
 ## 桌面客户端
@@ -204,7 +204,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 106 | Windows 10+ 即插即用 nanobot |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React 桌面客户端 |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | nanobot 桌面 GUI 客户端 |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 14 | Web UI，可视化配置和知识管理 |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 16 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
 
 | 项目 | Stars | 描述 |
