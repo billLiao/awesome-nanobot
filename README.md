@@ -151,7 +151,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1182 | Build MCP Agents — Official nanobot with enhanced MCP support |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1183 | Build MCP Agents — Official nanobot with enhanced MCP support |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 140 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | Multi-user support for OpenClaw/NanoBot |
@@ -176,8 +176,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | Manage multiple AI agent teams collaborating in isolated workspaces |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 10 | Feishu-specific version with enhanced features |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | Dockerized setup for nanobot |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 4 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
-| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 8 | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 5 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
+| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | A2A Proxy for nanobot agent communication |
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 12 | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
@@ -191,7 +191,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 106 | Plug-and-play nanobot for Windows 10+ |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React desktop client |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | Desktop GUI client for nanobot |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 16 | Web UI with visual configuration & knowledge management |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 18 | Web UI with visual configuration & knowledge management |
 ## Language Ports
 
 | Project | Stars | Description |
