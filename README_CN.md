@@ -75,6 +75,33 @@ nanobot gateway    # 启动网关（接入聊天渠道）
 
 📁 **详细教程**：[docs/TUTORIAL_CN.md](docs/TUTORIAL_CN.md) | [English Tutorial](docs/TUTORIAL.md)
 
+### CLI 命令参考
+
+| 命令 | 说明 |
+|------|------|
+| `nanobot onboard` | 初始化配置和工作空间 |
+| `nanobot agent -m "..."` | 与 Agent 对话 |
+| `nanobot agent` | 交互式对话模式 |
+| `nanobot agent --no-markdown` | 纯文本回复 |
+| `nanobot agent --logs` | 显示运行时日志 |
+| `nanobot gateway` | 启动网关（接入聊天渠道） |
+| `nanobot status` | 显示状态 |
+| `nanobot provider login openai-codex` | OAuth 登录 |
+| `nanobot channels login` | 链接 WhatsApp（扫码） |
+| `nanobot channels status` | 显示渠道状态 |
+
+### 心跳任务（Periodic Tasks）
+
+网关每 30 分钟自动唤醒，检查 `HEARTBEAT.md` 文件并执行任务：
+
+```markdown
+## Periodic Tasks
+- [ ] Check weather forecast and send a summary
+- [ ] Scan inbox for urgent emails
+```
+
+Agent 也可以自行管理此文件（告诉它"添加一个周期性任务"即可）。
+
 ## LLM 提供商
 
 nanobot 支持多种大语言模型提供商：
@@ -84,11 +111,15 @@ nanobot 支持多种大语言模型提供商：
 | OpenRouter | API | 单一 API 接入多种模型 |
 | Anthropic | API | Claude 系列模型 |
 | OpenAI | API | GPT 系列模型 |
+| Azure OpenAI | API | 微软 Azure OpenAI |
 | DeepSeek | API | DeepSeek 模型 |
 | Gemini | API | Google Gemini 模型 |
+| VolcEngine | API | 火山引擎 |
 | Qwen / DashScope | API | 阿里通义千问 |
 | Moonshot | API | Kimi 模型 |
 | Groq | API | 高速推理 |
+| Ollama | 本地 | 本地模型支持 |
+| Mistral | API | Mistral AI 模型 |
 | 自定义端点 | API | OpenAI 兼容 API |
 | GitHub Copilot | OAuth | OAuth 认证 |
 | OpenAI Codex | OAuth | OAuth 认证 |
@@ -99,26 +130,52 @@ nanobot 支持多种大语言模型提供商：
 
 | 渠道 | 状态 | 说明 |
 |------|------|------|
-| Telegram | ✅ 稳定 | 推荐新手使用 |
-| Discord | ✅ 稳定 | 完整支持 |
-| 飞书 | ✅ 稳定 | 国内企业 IM |
-| 钉钉 | ✅ 稳定 | 国内企业 IM |
-| WhatsApp | ✅ 稳定 | 需要 Node.js 桥接 |
-| Slack | ✅ 稳定 | 企业聊天 |
+| Telegram | ✅ 稳定 | 推荐新手使用，支持草稿流式输出 |
+| Discord | ✅ 稳定 | 完整支持，长消息自动分割 |
+| 飞书 | ✅ 稳定 | 国内企业 IM，多模态文件接收 |
+| 钉钉 | ✅ 稳定 | 国内企业 IM，媒体消息支持 |
+| WhatsApp | ✅ 稳定 | 需要 Node.js 桥接，媒体收发 |
+| Slack | ✅ 稳定 | 企业聊天，文件发送 |
 | Email | ✅ 稳定 | IMAP/SMTP |
-| QQ | ✅ 稳定 | 通过 go-cqhttp |
+| QQ | ✅ 稳定 | 通过 go-cqhttp/NapCat |
 | MoChat | ✅ 稳定 | Claw IM |
+| Matrix | ✅ 稳定 | 去中心化通讯协议 |
 
 📖 **渠道配置**：[官方 README - Chat Apps](https://github.com/HKUDS/nanobot#-chat-apps)
 
 ## MCP 支持
 
-nanobot 支持 Model Context Protocol (MCP) 扩展能力：
+nanobot 支持 Model Context Protocol (MCP) 扩展能力，可连接外部工具服务器：
 
 | 传输方式 | 说明 |
 |----------|------|
-| stdio | 本地 MCP 服务器 |
-| HTTP | 远程 MCP 服务器 |
+| stdio | 本地 MCP 服务器（通过 npx/uvx） |
+| HTTP | 远程 MCP 服务器（SSE 协议） |
+
+### MCP 配置示例
+
+```json
+{
+  "tools": {
+    "mcpServers": {
+      "filesystem": {
+        "command": "npx",
+        "args": ["-y", "@modelcontextprotocol/server-filesystem", "/path/to/dir"]
+      },
+      "my-remote-mcp": {
+        "url": "https://example.com/mcp/",
+        "headers": { "Authorization": "Bearer xxxxx" }
+      }
+    }
+  }
+}
+```
+
+### 高级配置
+
+- **工具超时**：`toolTimeout` 设置单个工具调用超时时间（默认 30s）
+- **工具筛选**：`enabledTools` 只注册 MCP 服务器的部分工具
+- **配置兼容**：格式兼容 Claude Desktop / Cursor，可直接复制配置
 
 📖 **MCP 配置**：[官方 README - MCP](https://github.com/HKUDS/nanobot#mcp-model-context-protocol)
 
@@ -129,6 +186,24 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | [Docker](https://github.com/HKUDS/nanobot#-docker) | 官方 Docker 支持 |
 | [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | 一键部署 |
 | [Zeabur 模板](https://zeabur.com/templates/5XVJX8) | 一键云端部署 |
+| [Linux Service](https://github.com/HKUDS/nanobot#-linux-service) | systemd 用户服务 |
+
+### 多实例支持
+
+nanobot 支持同时运行多个实例，每个实例使用独立配置：
+
+```bash
+# 实例 A - Telegram bot
+nanobot gateway --config ~/.nanobot-telegram/config.json
+
+# 实例 B - Discord bot
+nanobot gateway --config ~/.nanobot-discord/config.json --port 18791
+
+# 实例 C - 飞书 bot
+nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
+```
+
+📖 **多实例配置**：[官方 README - Multiple Instances](https://github.com/HKUDS/nanobot#-multiple-instances)
 
 ## 技能与插件
 
@@ -246,10 +321,11 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力：
 | 实践 | 说明 |
 |------|------|
 | API Key 管理 | 不要提交到仓库；设置 `chmod 600 ~/.nanobot/config.json` |
-| 渠道访问控制 | 生产环境必须配置 `allowFrom` 白名单 |
-| 工作空间限制 | 设置 `tools.restrictToWorkspace=true` |
+| 渠道访问控制 | 生产环境必须配置 `allowFrom` 白名单（v0.1.4.post4+ 空数组默认拒绝所有人） |
+| 工作空间限制 | 设置 `tools.restrictToWorkspace=true` 限制所有工具访问范围 |
 | 命令执行 | 使用受限用户运行；开启审计日志 |
 | 依赖安全 | 定期运行 `pip-audit` / `npm audit` |
+| 路径追加 | 使用 `tools.exec.pathAppend` 添加额外 PATH 目录 |
 
 ## 社区交流
 
