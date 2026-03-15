@@ -241,7 +241,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1187 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1192 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 140 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | OpenClaw/NanoBot 多用户支持 |
@@ -278,10 +278,10 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
 | [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 39 | Tauri 管理仪表板 |
-| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 135 | Windows 10+ 即插即用 nanobot |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 140 | Windows 10+ 即插即用 nanobot |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React 桌面客户端 |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | nanobot 桌面 GUI 客户端 |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 20 | Web UI，可视化配置和知识管理 |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 21 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
 
 | 项目 | Stars | 描述 |

@@ -153,7 +153,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1187 | Build MCP Agents — Official nanobot with enhanced MCP support |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1192 | Build MCP Agents — Official nanobot with enhanced MCP support |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 140 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 66 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 72 | Multi-user support for OpenClaw/NanoBot |
@@ -190,10 +190,10 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 39 | Tauri-based management dashboard |
-| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 135 | Plug-and-play nanobot for Windows 10+ |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 140 | Plug-and-play nanobot for Windows 10+ |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 27 | Tauri + React desktop client |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | Desktop GUI client for nanobot |
-| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 20 | Web UI with visual configuration & knowledge management |
+| [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 21 | Web UI with visual configuration & knowledge management |
 ## Language Ports
 
 | Project | Stars | Description |
