@@ -222,6 +222,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 技能 | 作者 | 说明 |
 |------|------|------|
 | [jina-search-skill](https://github.com/billLiao/jina-search-skill) | billLiao | Jina.ai 联网搜索和网页阅读 |
+| [bark-push-skills](https://github.com/billLiao/bark-push-skills) | billLiao | iOS 推送通知 |
 | [nanobot-skills](https://github.com/ruslanstarikov/nanobot-skills) | ruslanstarikov | 自定义技能集合 |
 | [nanobot-skills](https://github.com/CCAgentOrg/nanobot-skills) | CCAgentOrg | github-watcher, youtube-recommender |
 | [nanobot-skill-weather](https://github.com/kombalarasoftware-cmd/nanobot-skill-weather) | kombalarasoftware | 天气技能 |

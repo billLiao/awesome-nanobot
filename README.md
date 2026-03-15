@@ -133,6 +133,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Skill | Author | Description |
 |-------|--------|-------------|
+| [jina-search-skill](https://github.com/billLiao/jina-search-skill) | billLiao | Jina.ai web search and page reading |
+| [bark-push-skills](https://github.com/billLiao/bark-push-skills) | billLiao | iOS push notifications |
 | [nanobot-skills](https://github.com/ruslanstarikov/nanobot-skills) | ruslanstarikov | Custom skills collection |
 | [nanobot-skills](https://github.com/CCAgentOrg/nanobot-skills) | CCAgentOrg | github-watcher, youtube-recommender |
 | [nanobot-skill-weather](https://github.com/kombalarasoftware-cmd/nanobot-skill-weather) | kombalarasoftware | Weather skill |
