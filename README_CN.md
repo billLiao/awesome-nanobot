@@ -241,31 +241,32 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1213 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
-| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 168 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 70 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 104 | OpenClaw/NanoBot 多用户支持 |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1217 | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 182 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 73 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 136 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 62 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/nj19257/FastSkills) | ⭐ 24 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
-| [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 42 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
+| [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 46 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
 | [CrewClaw](https://github.com/Vistiqx/CrewClaw) | ⭐ 1 | 多业务控股企业 AI 平台 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 139 | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 164 | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 20 | Rust 编写的 AI 代理框架 |
-| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 24 | 具有 5 层安全网关的自我进化 AI 代理框架 |
+| [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 30 | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 3 | 基于 nanobot 的轻量级代理框架 |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 9 | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 自动化安装脚本（Docker + Redis + Qdrant）|
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 25 | Android 个人 AI 助手 — 灵感来自 nanobot |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 20 | 最优系统代理 — 最大化信号提取 |
-| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 37 | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
-| [NanoClaw](https://github.com/qwibbitai/nanoclaw) | ⭐ 23221 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 21 | 最优系统代理 — 最大化信号提取 |
+| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 48 | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
+| [NanoClaw](https://github.com/qwibbitai/nanoclaw) | ⭐ 24912 | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 7 | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 5 | Rust 编写的 AI 代理平台 — 多模型、MCP 工具 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 2 | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 管理多个在隔离工作空间中协作的 AI 代理团队 |
-| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 10 | 飞书专用版本，增强功能 |
+| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 13 | 飞书专用版本，增强功能 |
+| [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 2 | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 14 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
@@ -279,8 +280,8 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
 | [nanoboard](https://github.com/Freakz3z/nanoboard) | ⭐ 0 | Tauri 管理仪表板 |
-| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 143 | Windows 10+ 即插即用 nanobot |
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 31 | Tauri + React 桌面客户端 |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 183 | Windows 10+ 即插即用 nanobot |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 38 | Tauri + React 桌面客户端 |
 | [MyxAI-Desk](https://github.com/myxai/MyxAI-Desk) | ⭐ 1 | nanobot 桌面 GUI 客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 24 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
@@ -290,11 +291,11 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 5 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 20 | 具有长期记忆的 AI 代理（.NET 10）|
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 147 | 超轻量级 Go 语言 AI 助手 |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 170 | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 8 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant 集成（Shell）|
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 38 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 49 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 5 | 用于学习的轻量级 LLM 代理框架 |
