@@ -268,7 +268,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 13 | 飞书专用版本，增强功能 |
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 2 | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 14 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 15 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | nanobot 代理通信的 A2A 代理 |
