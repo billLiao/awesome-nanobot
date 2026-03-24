@@ -156,7 +156,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1218 | Build MCP Agents — Official nanobot with enhanced MCP support |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1217 | Build MCP Agents — Official nanobot with enhanced MCP support |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 182 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 73 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 136 | Multi-user support for OpenClaw/NanoBot |
@@ -183,7 +183,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 13 | Feishu-specific version with enhanced features |
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 2 | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | Dockerized setup for nanobot |
-| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 16 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
+| [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 14 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | A2A Proxy for nanobot agent communication |
