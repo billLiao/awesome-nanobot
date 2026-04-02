@@ -2,7 +2,23 @@
 
 > 本文档汇总自 HKUDS/nanobot 官方仓库的 Open Issues，反映了用户最迫切需要的新功能和改进。
 
-最后更新：2026-03-14
+最后更新：2026-04-02
+
+---
+
+## 🚀 v0.1.4.post6 新功能 (2026-03-27)
+
+**57 个 PR 合并，27 位新贡献者**
+
+### 主要更新
+- **Agent Runtime 重构** - 分解为可组合组件，提取共享 `AgentRunner`，生命周期钩子统一为 `HookContext`
+- **移除 litellm 依赖** - 使用原生 OpenAI + Anthropic SDK，支持 Anthropic Prompt Cache 和 OpenAI o1 `max_completion_tokens`
+- **端到端流式支持** - Feishu CardKit 流式支持，队列流增量合并
+- **安全漏洞修复**
+
+### 相关 PR
+- #2524, #2541, #2388, #2338 - Agent Runtime 重构
+- #2448, #1109, #2468, #2550, #2453 - 原生 SDK 支持
 
 ---
 

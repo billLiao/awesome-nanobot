@@ -109,6 +109,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |-----------|-------------|
 | stdio | Local MCP servers via standard I/O |
 | HTTP | Remote MCP servers via HTTP |
+| SSE | Server-Sent Events for real-time streaming |
 
 📖 **MCP Configuration**: [Official README - MCP](https://github.com/HKUDS/nanobot#mcp-model-context-protocol)
 
