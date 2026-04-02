@@ -156,7 +156,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1239 | Build MCP Agents — Official nanobot with enhanced MCP support |
+| [nanobot](https://github.com/nanobot-ai/nanobot) | ⭐ 1251 | Build MCP Agents — Official nanobot with enhanced MCP support |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 194 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 81 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 156 | Multi-user support for OpenClaw/NanoBot |
