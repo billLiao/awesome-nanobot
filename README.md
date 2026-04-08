@@ -46,7 +46,8 @@
 | [Releases](https://github.com/HKUDS/nanobot/releases) | Changelog and version history |
 | [Security Policy](https://github.com/HKUDS/nanobot/blob/main/SECURITY.md) | Security guidelines for production |
 | [User Profile Template](https://github.com/HKUDS/nanobot/blob/main/workspace/USER.md) | Personalization configuration |
-| [nanobot.club](http://nanobot.club/) | Official website |
+| [nanobot.wiki](https://nanobot.wiki) | Official website (Multi-language docs) |
+| [nanobot.club](http://nanobot.club/) | Community website |
 
 ## Quick Start
 
@@ -192,6 +193,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 0 | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 45 | nanobot × SillyTavern, with Companion Mode |
+| [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 21 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 ## Desktop & GUI
 
 | Project | Stars | Description |
