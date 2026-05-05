@@ -219,7 +219,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 5 | Lightweight LLM Agent framework for learning |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 4 | Go version of nanobot |
-| [FemtoBot](https://github.com/rafnixg/femtobot) | ⭐ 2 | It is an educational demonstration of a conversational agent architecture inspired by the "nanobot" project |
+| [FemtoBot](https://github.com/rafnixg/femtobot) | ⭐ 2 | Educational conversational-agent architecture demo inspired by nanobot |
 
 ## Integrations
 
