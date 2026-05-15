@@ -223,7 +223,6 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [Klodi](https://github.com/Context4GPTs/klodi-plugin) | ⭐ 5 | Peer-to-peer agent marketplace — nanobot adapter (`klodi-nanobot` on PyPI) lets the agent list, negotiate, and close consumer sales on the user's behalf. Same plugin tree supports OpenClaw, Hermes, Moltis, IronClaw, ZeroClaw. |
 | [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 100 | QQ bot plugin collection |
 ## Tutorials
 
