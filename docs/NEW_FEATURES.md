@@ -154,3 +154,9 @@
 - [Nanobot 官方仓库](https://github.com/HKUDS/nanobot)
 - [Open Issues 列表](https://github.com/HKUDS/nanobot/issues?state=open)
 - [Release Notes](https://github.com/HKUDS/nanobot/releases)
+---
+
+## 🆕 New (2026-06-17)
+
+- **PR #4371**: [fix(cache): add breakpoint before Recent History so the stable system prefix caches](https://github.com/HKUDS/nanobot/pull/4371) — sumleo
+
