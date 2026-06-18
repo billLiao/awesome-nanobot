@@ -160,3 +160,14 @@
 
 - **PR #4371**: [fix(cache): add breakpoint before Recent History so the stable system prefix caches](https://github.com/HKUDS/nanobot/pull/4371) — sumleo
 
+
+---
+
+## 🆕 New (2026-06-19)
+
+- **Issue #4390**: [Multi-instances for normies](https://github.com/HKUDS/nanobot/issues/4390) — bukit-kronik
+- **Issue #4378**: [cron level model/preset](https://github.com/HKUDS/nanobot/issues/4378) — chengyongru
+- **Issue #4376**: [user frendly wizard](https://github.com/HKUDS/nanobot/issues/4376) — chengyongru
+- **Issue #4374**: [Project workspaces: SOUL.md/USER.md are read from the project but written to the default workspace (read/write asymmetry)](https://github.com/HKUDS/nanobot/issues/4374) — maximilize
+- **PR #4399**: [feat(webui): add configurable hidden_settings_sections to strip UI noise](https://github.com/HKUDS/nanobot/pull/4399) — HaisamAbbas
+
