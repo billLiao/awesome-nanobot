@@ -171,3 +171,14 @@
 - **Issue #4374**: [Project workspaces: SOUL.md/USER.md are read from the project but written to the default workspace (read/write asymmetry)](https://github.com/HKUDS/nanobot/issues/4374) — maximilize
 - **PR #4399**: [feat(webui): add configurable hidden_settings_sections to strip UI noise](https://github.com/HKUDS/nanobot/pull/4399) — HaisamAbbas
 
+
+---
+
+## 🆕 New (2026-06-21)
+
+- **Issue #4420**: [性能优化：`estimate_prompt_tokens` 每轮迭代对工具定义做冗余 tiktoken 编码](https://github.com/HKUDS/nanobot/issues/4420) — codeLong1024
+- **Issue #4413**: [[Request] Telegram Bot API 10.1 rich messages](https://github.com/HKUDS/nanobot/issues/4413) — madIlama
+- **PR #4416**: [[codex] feat(cron): support job model presets](https://github.com/HKUDS/nanobot/pull/4416) — yu-xin-c
+- **PR #4415**: [[codex] feat(subagent): allow spawn model override](https://github.com/HKUDS/nanobot/pull/4415) — yu-xin-c
+- **PR #4414**: [[codex] feat(subagent): add aggregated result mode](https://github.com/HKUDS/nanobot/pull/4414) — yu-xin-c
+
