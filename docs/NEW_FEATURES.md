@@ -182,3 +182,14 @@
 - **PR #4415**: [[codex] feat(subagent): allow spawn model override](https://github.com/HKUDS/nanobot/pull/4415) — yu-xin-c
 - **PR #4414**: [[codex] feat(subagent): add aggregated result mode](https://github.com/HKUDS/nanobot/pull/4414) — yu-xin-c
 
+
+---
+
+## 🆕 New (2026-06-23)
+
+- **Issue #4440**: [Proposal: a read-only `search_history` tool for recalling `memory/history.jsonl`](https://github.com/HKUDS/nanobot/issues/4440) — waelantar
+- **Issue #4413**: [[Request] Telegram Bot API 10.1 rich messages](https://github.com/HKUDS/nanobot/issues/4413) — madIlama
+- **PR #4459**: [feat: add Mattermost channel support](https://github.com/HKUDS/nanobot/pull/4459) — goodtiding5
+- **PR #4446**: [feat(dingtalk): gate private chats and mention sender in group replies](https://github.com/HKUDS/nanobot/pull/4446) — lmzopq
+- **PR #4439**: [feat(tools): add read-only search_history tool](https://github.com/HKUDS/nanobot/pull/4439) — waelantar
+

@@ -1,50 +1,50 @@
 # Open Issues & PRs
 
-> 2026-06-21 07:00 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot/issues)
+> 2026-06-23 07:01 | [HKUDS/nanobot](https://github.com/HKUDS/nanobot/issues)
 
 ---
 
-## Issues (8)
+## Issues (10)
 
 | # | Labels | Title | Author | Created |
 |---|--------|-------|--------|---------|
+| [4457](https://github.com/HKUDS/nanobot/issues/4457) | - | feat(webui): add PWA support for mobile home screen installation | zpljd258 | 2026-06-22 |
+| [4442](https://github.com/HKUDS/nanobot/issues/4442) | bug | Duplicate tool_use ids in streamed responses poison a session ("tool_use ids must be unique" 400) | tedyyan | 2026-06-21 |
+| [4440](https://github.com/HKUDS/nanobot/issues/4440) | enhancement | Proposal: a read-only `search_history` tool for recalling `memory/history.jsonl` | waelantar | 2026-06-21 |
+| [4435](https://github.com/HKUDS/nanobot/issues/4435) | - | [Security] nanobot MCP `enabledTools` allowlist bypass exposes resource and prompt capabilities | YLChen-007 | 2026-06-21 |
+| [4434](https://github.com/HKUDS/nanobot/issues/4434) | - | [Security] Nanobot MCP `enabledTools` deny-all policy bypass exposes MCP resources and prompts to the model | YLChen-007 | 2026-06-21 |
+| [4431](https://github.com/HKUDS/nanobot/issues/4431) | - | Add heartbeat-specific model override | steeveroucaute10-epping | 2026-06-21 |
 | [4429](https://github.com/HKUDS/nanobot/issues/4429) | - | feat: Allow custom provider to configure thinking style | gkd2323c | 2026-06-20 |
-| [4422](https://github.com/HKUDS/nanobot/issues/4422) | - | feat(telegram): Add Bot API 10.1 sendRichMessage support | zpljd258 | 2026-06-20 |
-| [4420](https://github.com/HKUDS/nanobot/issues/4420) | enhancement | 性能优化：`estimate_prompt_tokens` 每轮迭代对工具定义做冗余 tiktoken 编码 | codeLong1024 | 2026-06-20 |
 | [4419](https://github.com/HKUDS/nanobot/issues/4419) | - | Feature: Automatic reasoning effort escalation (default + escalated levels) | orrinwitt | 2026-06-20 |
 | [4418](https://github.com/HKUDS/nanobot/issues/4418) | - | Feature Request: Heartbeat tasks should deliver results to the channel where the task was added | orrinwitt | 2026-06-19 |
 | [4413](https://github.com/HKUDS/nanobot/issues/4413) | enhancement | [Request] Telegram Bot API 10.1 rich messages | madIlama | 2026-06-19 |
-| [4410](https://github.com/HKUDS/nanobot/issues/4410) | bug | Even ask LLM dont send message, it still send message after upgrade from v0.15 | KennethYCK | 2026-06-19 |
-| [4408](https://github.com/HKUDS/nanobot/issues/4408) | bug | Nanobot.run() per-run hooks are not concurrency-safe (shared _extra_hooks is clobbered) | waelantar | 2026-06-18 |
 
-## PRs (22)
+## PRs (20)
 
 | # | Labels | Title | Author | Created |
 |---|--------|-------|--------|---------|
-| [4428](https://github.com/HKUDS/nanobot/pull/4428) | performance | perf(tokens): cache tool schema estimates | yu-xin-c | 2026-06-20 |
-| [4425](https://github.com/HKUDS/nanobot/pull/4425) | fix | fix(sdk): use contextvars for per-call hooks to prevent concurrent run() race | michaelxer | 2026-06-20 |
+| [4459](https://github.com/HKUDS/nanobot/pull/4459) | enhancement, channel | feat: add Mattermost channel support | goodtiding5 | 2026-06-22 |
+| [4458](https://github.com/HKUDS/nanobot/pull/4458) | webui | feat(webui): add PWA support for mobile home screen installation | zpljd258 | 2026-06-22 |
+| [4452](https://github.com/HKUDS/nanobot/pull/4452) | - | [codex] enforce MCP enabledTools for resources and prompts | yu-xin-c | 2026-06-22 |
+| [4447](https://github.com/HKUDS/nanobot/pull/4447) | fix | fix(gateway): handle lifecycle edge cases | chengyongru | 2026-06-22 |
+| [4446](https://github.com/HKUDS/nanobot/pull/4446) | enhancement, channel | feat(dingtalk): gate private chats and mention sender in group replies | lmzopq | 2026-06-22 |
+| [4444](https://github.com/HKUDS/nanobot/pull/4444) | fix | fix(providers): dedupe tool_use ids to prevent Anthropic 400s | tedyyan | 2026-06-21 |
+| [4443](https://github.com/HKUDS/nanobot/pull/4443) | fix | fix: guard against duplicate tool_use ids in streamed responses (#4442) | michaelxer | 2026-06-21 |
+| [4441](https://github.com/HKUDS/nanobot/pull/4441) | fix | fix(mcp): force-close streamable_http generator on reconnect failure | michaelxer | 2026-06-21 |
+| [4439](https://github.com/HKUDS/nanobot/pull/4439) | enhancement | feat(tools): add read-only search_history tool | waelantar | 2026-06-21 |
+| [4438](https://github.com/HKUDS/nanobot/pull/4438) | fix | fix(cli): show search engines (incl. Keenable) in onboard wizard | IlyaGusev | 2026-06-21 |
+| [4437](https://github.com/HKUDS/nanobot/pull/4437) | enhancement | [codex] add heartbeat trigger command | yu-xin-c | 2026-06-21 |
+| [4436](https://github.com/HKUDS/nanobot/pull/4436) | fix | fix(tools): gate MCP resource and prompt registration behind enabledTools | michaelxer | 2026-06-21 |
+| [4433](https://github.com/HKUDS/nanobot/pull/4433) | fix | fix(pairing): normalize sender IDs to str in the pairing store | waelantar | 2026-06-21 |
+| [4430](https://github.com/HKUDS/nanobot/pull/4430) | enhancement, webui | feat(web): configure web_fetch provider | ChachAloha | 2026-06-21 |
 | [4424](https://github.com/HKUDS/nanobot/pull/4424) | - | [codex] feat(memory): gate archive facts with provenance context | yu-xin-c | 2026-06-20 |
-| [4423](https://github.com/HKUDS/nanobot/pull/4423) | - | fix(telegram): narrow rich capability error detection and fix misleading log | zpljd258 | 2026-06-20 |
-| [4421](https://github.com/HKUDS/nanobot/pull/4421) | - | perf(utils): cache tool-definition JSON in estimate_prompt_tokens | michaelxer | 2026-06-20 |
-| [4417](https://github.com/HKUDS/nanobot/pull/4417) | CI/CD | [codex] test(mcp): use resolvable timeout regression URL | yu-xin-c | 2026-06-19 |
-| [4416](https://github.com/HKUDS/nanobot/pull/4416) | enhancement | [codex] feat(cron): support job model presets | yu-xin-c | 2026-06-19 |
-| [4415](https://github.com/HKUDS/nanobot/pull/4415) | enhancement | [codex] feat(subagent): allow spawn model override | yu-xin-c | 2026-06-19 |
-| [4414](https://github.com/HKUDS/nanobot/pull/4414) | enhancement | [codex] feat(subagent): add aggregated result mode | yu-xin-c | 2026-06-19 |
-| [4412](https://github.com/HKUDS/nanobot/pull/4412) | enhancement, webui | Suppress routine cron job notifications (#4410) | HaisamAbbas | 2026-06-19 |
-| [4411](https://github.com/HKUDS/nanobot/pull/4411) | enhancement | feat(agent): add SuspendTurn so a tool can pause a turn for async / human-in-the-loop continuations | vinit-patel-athena | 2026-06-19 |
-| [4409](https://github.com/HKUDS/nanobot/pull/4409) | - | fix(sdk): pass per-run hooks to process_direct instead of mutating shared loop state | waelantar | 2026-06-18 |
-| [4407](https://github.com/HKUDS/nanobot/pull/4407) | - | feat(whatsapp): seed LID->phone mappings on startup | franciscomaestre | 2026-06-18 |
-| [4406](https://github.com/HKUDS/nanobot/pull/4406) | - | feat(web-search): add Serper.dev (Google Search API) provider | franciscomaestre | 2026-06-18 |
-| [4405](https://github.com/HKUDS/nanobot/pull/4405) | - | feat(web): allow Keenable search without an API key | IlyaGusev | 2026-06-18 |
 
 ## ⚠️ Needs attention
 
-- [Even ask LLM dont send message, it still send message after upgrade from v0.15](https://github.com/HKUDS/nanobot/issues/4410) by KennethYCK
-- [Nanobot.run() per-run hooks are not concurrency-safe (shared _extra_hooks is clobbered)](https://github.com/HKUDS/nanobot/issues/4408) by waelantar
-- [fix(webui): avoid slow settings route refreshes](https://github.com/HKUDS/nanobot/pull/4398) by chengyongru
+- [Duplicate tool_use ids in streamed responses poison a session ("tool_use ids must be unique" 400)](https://github.com/HKUDS/nanobot/issues/4442) by tedyyan
 
 ## Stats
 
-- Open Issues: 8
-- Open PRs: 22
-- Needs attention: 3
+- Open Issues: 10
+- Open PRs: 20
+- Needs attention: 1
