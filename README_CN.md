@@ -189,6 +189,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力，可连接外部工具
 | [Docker](https://github.com/HKUDS/nanobot#-docker) | 官方 Docker 支持 |
 | [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | 一键部署 |
 | [Zeabur 模板](https://zeabur.com/templates/5XVJX8) | 一键云端部署 |
+| [Render 模板](https://github.com/render-examples/nanobot-render) | 一键 Render 部署模板 |
 | [Linux Service](https://github.com/HKUDS/nanobot#-linux-service) | systemd 用户服务 |
 
 ### 多实例支持
@@ -209,6 +210,10 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 📖 **多实例配置**：[官方 README - Multiple Instances](https://github.com/HKUDS/nanobot#-multiple-instances)
 
 ## 技能与插件
+
+| 项目 | Stars | 说明 |
+|------|-------|------|
+| [nanobot-llm-wiki](https://github.com/yu-xin-c/nanobot-llm-wiki) | ⭐ 1 | NanoBot 的 LLM Wiki 长期记忆插件 |
 
 ### 官方内置技能
 
@@ -272,6 +277,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 2 | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | nanobot 的 Docker 部署配置 |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 14 | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
+| [nanobot-webui](https://github.com/Good0007/nanobot-webui) | ⭐ 150 | nanobot 自托管 Web 管理面板 |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | nanobot 代理通信的 A2A 代理 |
@@ -319,6 +325,8 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [YouTube 演示](https://www.youtube.com/watch?v=AKxiKb42Cqk) | English | Ollama + Telegram 安装演示 |
 | [架构解读](https://jinlow.medium.com/nanobot-architecture-teardown-4-000-lines-achieving-openclaw-capability-3f242113ccbc) | English | 架构深度分析 |
 | [nanobot-learn](https://github.com/WOWCharlotte/nanobot-learn) | 中文 | 七天学会 Nanobot 设计原理 |
+| [byte-of-nanobot](https://github.com/sine-io/byte-of-nanobot) | 中文 | 面向零基础用户的 nanobot 教程，从"能跑"到"懂原理" |
+| [agent-tutor](https://github.com/ywz456/agent-tutor) | 中文 | 从 0 到 1 搭建生产级 AI Agent 实战教程 |
 
 ## 安全指南
 

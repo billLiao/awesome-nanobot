@@ -121,8 +121,13 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Docker](https://github.com/HKUDS/nanobot#-docker) | Official Docker support |
 | [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | One-click deployment |
 | [Zeabur Template](https://zeabur.com/templates/5XVJX8) | One-click cloud deployment |
+| [Render Template](https://github.com/render-examples/nanobot-render) | One-click Render deploy template |
 
 ## Skills & Plugins
+
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [nanobot-llm-wiki](https://github.com/yu-xin-c/nanobot-llm-wiki) | ⭐ 1 | LLM Wiki long-term memory plugin for NanoBot |
 
 ### Official Skills
 
@@ -186,6 +191,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 2 | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker](https://github.com/ciri/nanobot-docker) | ⭐ 6 | Dockerized setup for nanobot |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 14 | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
+| [nanobot-webui](https://github.com/Good0007/nanobot-webui) | ⭐ 150 | A self-hosted web management panel for nanobot-ai |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 12 | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 0 | A2A Proxy for nanobot agent communication |
@@ -210,7 +216,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 port |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 5 | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 21 | AI agent with long-term memory (.NET 10) |
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 222 | Ultra-Lightweight AI Assistant in Go |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 228 | Ultra-Lightweight AI Assistant in Go |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 8 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 0 | Home Assistant integration (Shell) |
@@ -234,6 +240,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [YouTube Demo](https://www.youtube.com/watch?v=AKxiKb42Cqk) | English | Ollama + Telegram setup |
 | [Medium Architecture](https://jinlow.medium.com/nanobot-architecture-teardown-4-000-lines-achieving-openclaw-capability-3f242113ccbc) | English | Architecture deep-dive |
 | [nanobot-learn](https://github.com/WOWCharlotte/nanobot-learn) | 中文 | Learn Nanobot Design Principles in 7 Days |
+| [byte-of-nanobot](https://github.com/sine-io/byte-of-nanobot) | 中文 | 面向零基础用户的 nanobot 教程，从"能跑"到"懂原理" |
+| [agent-tutor](https://github.com/ywz456/agent-tutor) | 中文 | 从 0 到 1 搭建生产级 AI Agent 实战教程 |
 
 ## Security
 
