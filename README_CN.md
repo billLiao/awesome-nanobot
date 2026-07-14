@@ -250,6 +250,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.3k | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
+| [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.5k | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 279 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 105 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 289 | OpenClaw/NanoBot 多用户支持 |
