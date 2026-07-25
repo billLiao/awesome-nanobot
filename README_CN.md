@@ -251,9 +251,9 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 |---------|-------|-------------|
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.3k | 构建 MCP Agents — 官方 nanobot，增强的 MCP 支持 |
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.5k | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
-| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 279 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 280 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 105 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 289 | OpenClaw/NanoBot 多用户支持 |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 301 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 61 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
@@ -300,7 +300,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 7 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 具有长期记忆的 AI 代理（.NET 10）|
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 228 | 超轻量级 Go 语言 AI 助手 |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 55 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 59 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 1 | Home Assistant 集成（Shell）|
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 65 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|

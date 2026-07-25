@@ -165,9 +165,9 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.3k | Build MCP Agents — Official nanobot with enhanced MCP support |
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.5k | 🦞+🔬 Autonomous AI Research Assistant powered by nanobot |
-| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 279 | The original Tiny Claw as your personal autonomous AI companion |
+| [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 280 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 105 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 289 | Multi-user support for OpenClaw/NanoBot |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 301 | Multi-user support for OpenClaw/NanoBot |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 61 | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | MCP server that brings Agent Skills to any MCP-compatible agent |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
@@ -215,7 +215,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 7 | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | AI agent with long-term memory (.NET 10) |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 228 | Ultra-Lightweight AI Assistant in Go |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 55 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 59 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 1 | Home Assistant integration (Shell) |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 65 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
