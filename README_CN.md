@@ -284,7 +284,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 13 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 85 | nanobot × SillyTavern，伴侣模式 |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern，伴侣模式 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |
