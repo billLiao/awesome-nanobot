@@ -167,13 +167,13 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.5k | 🦞+🔬 Autonomous AI Research Assistant powered by nanobot |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 280 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 105 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 301 | Multi-user support for OpenClaw/NanoBot |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 304 | Multi-user support for OpenClaw/NanoBot |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 61 | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | MCP server that brings Agent Skills to any MCP-compatible agent |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 628 | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 629 | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 23 | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 40 | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 3 | Lightweight agent framework based on nanobot |
@@ -184,7 +184,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 74 | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 30k | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 15 | Master AI Agent Assistant in 3 Days — guided study plan |
-| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 6 | AI Agent Platform built in Rust — Multi-model, MCP tools |
+| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 7 | AI Agent Platform built in Rust — Multi-model, MCP tools |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | OpenViking knowledge base integration — RAG, semantic search, vector embeddings |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | Manage multiple AI agent teams collaborating in isolated workspaces |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 67 | Feishu-specific version with enhanced features |
@@ -198,14 +198,14 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 13 | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern, with Companion Mode |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | nanobot × SillyTavern, with Companion Mode |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 78 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 ## Desktop & GUI
 
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 175 | Plug-and-play nanobot for Windows 10+ |
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 50 | Tauri + React desktop client |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React desktop client |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI with visual configuration & knowledge management |
 ## Language Ports
 

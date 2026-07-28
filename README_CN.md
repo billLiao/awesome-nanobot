@@ -253,13 +253,13 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.5k | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 280 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 105 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 301 | OpenClaw/NanoBot 多用户支持 |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 304 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 61 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 628 | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 629 | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 23 | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 40 | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyBot](https://github.com/D-Sketon/tinybot) | ⭐ 3 | 基于 nanobot 的轻量级代理框架 |
@@ -270,7 +270,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 74 | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 30k | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 15 | 3 天掌握 AI 代理助手 — 学习计划 |
-| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 6 | Rust 编写的 AI 代理平台 — 多模型、MCP 工具 |
+| [nanobot-rs](https://github.com/yukihamada/nanobot) | ⭐ 7 | Rust 编写的 AI 代理平台 — 多模型、MCP 工具 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 67 | 飞书专用版本，增强功能 |
@@ -284,13 +284,13 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 13 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern，伴侣模式 |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | nanobot × SillyTavern，伴侣模式 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 175 | Windows 10+ 即插即用 nanobot |
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 50 | Tauri + React 桌面客户端 |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React 桌面客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
 
