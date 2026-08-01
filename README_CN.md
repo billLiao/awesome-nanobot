@@ -303,7 +303,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 59 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 1 | Home Assistant 集成（Shell）|
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 65 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | 用于学习的轻量级 LLM 代理框架 |

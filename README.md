@@ -218,7 +218,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 59 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | Personalized AI assistant fork |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 1 | Home Assistant integration (Shell) |
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 65 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | Lightweight LLM Agent framework for learning |
