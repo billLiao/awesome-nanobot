@@ -299,7 +299,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 7 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 具有长期记忆的 AI 代理（.NET 10）|
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 228 | 超轻量级 Go 语言 AI 助手 |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 229 | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 59 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
 | [ha-nanobot](https://github.com/dartanidi/ha-nanobot) | ⭐ 1 | Home Assistant 集成（Shell）|
