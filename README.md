@@ -204,7 +204,6 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | Plug-and-play nanobot for Windows 10+ |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React desktop client |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI with visual configuration & knowledge management |
 ## Language Ports

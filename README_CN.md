@@ -289,7 +289,6 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | Windows 10+ 即插即用 nanobot |
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React 桌面客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI，可视化配置和知识管理 |
 ## 语言移植版
