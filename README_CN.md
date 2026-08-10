@@ -238,6 +238,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-skill-notes](https://github.com/kombalarasoftware-cmd/nanobot-skill-notes) | kombalarasoftware | 笔记管理 |
 | [nanobot-skill-calendar](https://github.com/kombalarasoftware-cmd/nanobot-skill-calendar) | kombalarasoftware | 日历集成 |
 | [nanobot-skill-translator](https://github.com/kombalarasoftware-cmd/nanobot-skill-translator) | kombalarasoftware | 翻译技能 |
+| [nanobot-channel-weixin](https://github.com/alvis233/nanobot-channel-weixin) | alvis233 | 个人微信频道插件（基于 iLink Bot API）|
 
 ### 技能注册中心
 
@@ -285,6 +286,8 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern，伴侣模式 |
+| [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 14 | 基于 nanobot & nanobot-webui 的 AI 系统管理员机器人，可长期自主运行 |
+| [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | 支持 openclaw、nanobot、picoclaw、nullclaw 的 Linux 面板 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |
@@ -292,6 +295,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React 桌面客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI，可视化配置和知识管理 |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
+| [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | 基于 nanobot 的 Windows 桌面 AI 智能秘书 |
 ## 语言移植版
 
 | 项目 | Stars | 描述 |
@@ -309,6 +313,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | 用于学习的轻量级 LLM 代理框架 |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 36 | Go 语言版 nanobot |
 | [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 40 | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
+| [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | 纯 Julia 编写的轻量级 nanobot/OpenClaw 变体 |
 ## 集成项目
 
 | 项目 | Stars | 描述 |

@@ -152,6 +152,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-skill-notes](https://github.com/kombalarasoftware-cmd/nanobot-skill-notes) | kombalarasoftware | Notes management |
 | [nanobot-skill-calendar](https://github.com/kombalarasoftware-cmd/nanobot-skill-calendar) | kombalarasoftware | Calendar integration |
 | [nanobot-skill-translator](https://github.com/kombalarasoftware-cmd/nanobot-skill-translator) | kombalarasoftware | Translation skill |
+| [nanobot-channel-weixin](https://github.com/alvis233/nanobot-channel-weixin) | alvis233 | Personal WeChat channel plugin (via iLink Bot API) |
 
 ### Skill Registry
 
@@ -200,6 +201,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern, with Companion Mode |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 79 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
+| [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 14 | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
+| [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
 ## Desktop & GUI
 
 | Project | Stars | Description |
@@ -207,6 +210,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React desktop client |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI with visual configuration & knowledge management |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | Plug-and-play nanobot UI — ready to use on Windows 10+ |
+| [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | Windows desktop AI secretary based on nanobot |
 ## Language Ports
 
 | Project | Stars | Description |
@@ -224,6 +228,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | Lightweight LLM Agent framework for learning |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 36 | Go version of nanobot |
 | [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 40 | AI Agent in Go based on Cloudwego Eino framework |
+| [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | Lightweight nanobot/OpenClaw variant in pure Julia |
 ## Integrations
 
 | Project | Stars | Description |
