@@ -206,6 +206,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 |---------|-------|-------------|
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React desktop client |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI with visual configuration & knowledge management |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | Plug-and-play nanobot UI — ready to use on Windows 10+ |
 ## Language Ports
 
 | Project | Stars | Description |
@@ -222,6 +223,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | Lightweight LLM Agent framework for learning |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 36 | Go version of nanobot |
+| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 40 | AI Agent in Go based on Cloudwego Eino framework |
 ## Integrations
 
 | Project | Stars | Description |
@@ -240,6 +242,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [byte-of-nanobot](https://github.com/sine-io/byte-of-nanobot) | 中文 | 面向零基础用户的 nanobot 教程，从"能跑"到"懂原理" |
 | [agent-tutor](https://github.com/ywz456/agent-tutor) | 中文 | 从 0 到 1 搭建生产级 AI Agent 实战教程 |
 | [how-ai-agents-remember](https://github.com/breath57/how-ai-agents-remember) | 中/EN | 源码级逆向工程 nanobot 等 Agent 记忆系统 — 架构图、数据模型、检索管线 |
+| [learn-nanobot](https://github.com/bcefghj/learn-nanobot) | 中文 | nanobot 面试学习指南 — 17章深度教程、134道八股文、哆啦A梦漫画图解 |
 
 ## Security
 

@@ -291,6 +291,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 |---------|-------|-------------|
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 49 | Tauri + React 桌面客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 32 | Web UI，可视化配置和知识管理 |
+| [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 174 | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
 ## 语言移植版
 
 | 项目 | Stars | 描述 |
@@ -307,6 +308,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 10 | 用于学习的轻量级 LLM 代理框架 |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 36 | Go 语言版 nanobot |
+| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 40 | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
 ## 集成项目
 
 | 项目 | Stars | 描述 |
@@ -325,6 +327,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [byte-of-nanobot](https://github.com/sine-io/byte-of-nanobot) | 中文 | 面向零基础用户的 nanobot 教程，从"能跑"到"懂原理" |
 | [agent-tutor](https://github.com/ywz456/agent-tutor) | 中文 | 从 0 到 1 搭建生产级 AI Agent 实战教程 |
 | [how-ai-agents-remember](https://github.com/breath57/how-ai-agents-remember) | 中/EN | 源码级逆向工程 nanobot 等 Agent 记忆系统 — 架构图、数据模型、检索管线 |
+| [learn-nanobot](https://github.com/bcefghj/learn-nanobot) | 中文 | nanobot 面试学习指南 — 17章深度教程、134道八股文、哆啦A梦漫画图解 |
 
 ## 安全指南
 
