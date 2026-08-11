@@ -288,6 +288,9 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern，伴侣模式 |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 14 | 基于 nanobot & nanobot-webui 的 AI 系统管理员机器人，可长期自主运行 |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | 支持 openclaw、nanobot、picoclaw、nullclaw 的 Linux 面板 |
+| [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 基于 nanobot 的主动式金融助手 |
+| [smith](https://github.com/vseplet/smith) | ⭐ 8 | 可定制的轻量级 Telegram Clawdbot |
+| [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |
@@ -319,6 +322,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
 | [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 106 | QQ 机器人插件集合 |
+| [agentclub](https://github.com/dantezhu/agentclub) | ⭐ 5 | 开源聊天服务器 — 支持人类与 AI 代理，含 Nanobot 频道 |
 ## 教程资源
 
 | 资源 | 语言 | 类型 |

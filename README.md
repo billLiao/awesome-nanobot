@@ -203,6 +203,9 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 79 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 14 | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
+| [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | Proactive Finance assistant built on nanobot |
+| [smith](https://github.com/vseplet/smith) | ⭐ 8 | Hackable skinny Clawdbot for Telegram |
+| [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
 ## Desktop & GUI
 
 | Project | Stars | Description |
@@ -234,6 +237,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | Project | Stars | Description |
 |---------|-------|-------------|
 | [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 106 | QQ bot plugin collection |
+| [agentclub](https://github.com/dantezhu/agentclub) | ⭐ 5 | Open-source chat server for humans & AI agents — with Nanobot channels |
 ## Tutorials
 
 | Resource | Language | Type |
