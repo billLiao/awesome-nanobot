@@ -303,7 +303,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 移植版 |
+| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 7 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 具有长期记忆的 AI 代理（.NET 10）|
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 229 | 超轻量级 Go 语言 AI 助手 |

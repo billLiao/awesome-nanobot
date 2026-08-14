@@ -218,7 +218,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 11 | .NET 10 port |
+| [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | .NET 10 port |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 7 | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | AI agent with long-term memory (.NET 10) |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 229 | Ultra-Lightweight AI Assistant in Go |
