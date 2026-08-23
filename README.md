@@ -176,7 +176,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 649 | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 650 | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 43 | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | Lightweight agent framework based on nanobot |
@@ -201,14 +201,14 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 86 | nanobot × SillyTavern, with Companion Mode |
-| [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 78 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
+| [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 79 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 15 | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | Proactive Finance assistant built on nanobot |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 481 | Recursive Self-Improvement Personal Assistant built on nanobot |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 301 | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 482 | Recursive Self-Improvement Personal Assistant built on nanobot |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 302 | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 ## Desktop & GUI
 
 | Project | Stars | Description |
