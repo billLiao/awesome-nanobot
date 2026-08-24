@@ -262,7 +262,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot 集成 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 650 | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 654 | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 43 | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 基于 nanobot 的轻量级代理框架 |
@@ -313,7 +313,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 62 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 66 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | 用于学习的轻量级 LLM 代理框架 |

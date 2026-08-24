@@ -176,7 +176,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
 | [MoChat](https://github.com/HKUDS/MoChat) | - | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | - | OpenClaw/Nanobot integration |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 650 | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 654 | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 43 | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | Lightweight agent framework based on nanobot |
@@ -227,7 +227,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | Ultra-Lightweight AI Assistant in Go |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 62 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | Personalized AI assistant fork |
-| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 66 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
+| [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | Lightweight LLM Agent framework for learning |
