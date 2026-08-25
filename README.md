@@ -170,7 +170,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.4k | 🦞+🔬 Autonomous AI Research Assistant powered by nanobot |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 287 | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 116 | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 315 | Multi-user support for OpenClaw/NanoBot |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 316 | Multi-user support for OpenClaw/NanoBot |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | MCP server that brings Agent Skills to any MCP-compatible agent |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
@@ -207,7 +207,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | Proactive Finance assistant built on nanobot |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 482 | Recursive Self-Improvement Personal Assistant built on nanobot |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 483 | Recursive Self-Improvement Personal Assistant built on nanobot |
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 302 | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 ## Desktop & GUI
 
@@ -224,7 +224,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | .NET 10 port |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 26 | AI agent with long-term memory (.NET 10) |
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | Ultra-Lightweight AI Assistant in Go |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 231 | Ultra-Lightweight AI Assistant in Go |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 62 | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | Personalized AI assistant fork |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |

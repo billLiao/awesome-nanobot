@@ -256,7 +256,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.4k | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
 | [TinyClaw](https://github.com/warengonzaga/tinyclaw) | ⭐ 287 | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 116 | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
-| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 315 | OpenClaw/NanoBot 多用户支持 |
+| [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 316 | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 15 | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
@@ -293,7 +293,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 基于 nanobot 的主动式金融助手 |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 可定制的轻量级 Telegram Clawdbot |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 482 | 基于 nanobot 的递归自我改进个人助手 |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 483 | 基于 nanobot 的递归自我改进个人助手 |
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 302 | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 ## 桌面客户端
 
@@ -310,7 +310,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | .NET 10 移植版 |
 | [nanobot-rs](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 具有长期记忆的 AI 代理（.NET 10）|
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | 超轻量级 Go 语言 AI 助手 |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 231 | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 62 | 下一代 AI 代理（nanobot-rs-pro，Rust）|
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 3 | 个性化 AI 助手分支 |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript）|
