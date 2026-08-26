@@ -190,7 +190,7 @@ nanobot 支持 Model Context Protocol (MCP) 扩展能力，可连接外部工具
 | [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | 一键部署 |
 | [Zeabur 模板](https://zeabur.com/templates/5XVJX8) | 一键云端部署 |
 | [Render 模板](https://github.com/render-examples/nanobot-render) | 一键 Render 部署模板 |
-| [nanobot-docker](https://github.com/maruf009sultan/nanobot-docker) | ⭐ 16 | nanobot 的非交互式 Docker 一键部署（非官方）|
+| [nanobot-docker](https://github.com/maruf009sultan/nanobot-docker) | ⭐ 17 | nanobot 的非交互式 Docker 一键部署（非官方）|
 | [Linux Service](https://github.com/HKUDS/nanobot#-linux-service) | systemd 用户服务 |
 
 ### 多实例支持
@@ -286,7 +286,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 在树莓派上运行 nanobot 的配方 |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 86 | nanobot × SillyTavern，伴侣模式 |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern，伴侣模式 |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 79 | 自托管 AI 助手框架 — 多渠道（Telegram、Discord、Slack）、并行代理、MCP 支持、带 OAuth 的 WebUI |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 15 | 基于 nanobot & nanobot-webui 的 AI 系统管理员机器人，可长期自主运行 |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | 支持 openclaw、nanobot、picoclaw、nullclaw 的 Linux 面板 |
@@ -299,7 +299,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 描述 |
 |---------|-------|-------------|
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 50 | Tauri + React 桌面客户端 |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 51 | Tauri + React 桌面客户端 |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 31 | Web UI，可视化配置和知识管理 |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 173 | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | 基于 nanobot 的 Windows 桌面 AI 智能秘书 |

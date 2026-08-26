@@ -122,7 +122,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Docker Compose](https://github.com/HKUDS/nanobot#-docker) | One-click deployment |
 | [Zeabur Template](https://zeabur.com/templates/5XVJX8) | One-click cloud deployment |
 | [Render Template](https://github.com/render-examples/nanobot-render) | One-click Render deploy template |
-| [nanobot-docker](https://github.com/maruf009sultan/nanobot-docker) | ⭐ 16 | Easy non-interactive Docker deployment for nanobot (unofficial) |
+| [nanobot-docker](https://github.com/maruf009sultan/nanobot-docker) | ⭐ 17 | Easy non-interactive Docker deployment for nanobot (unofficial) |
 
 ## Skills & Plugins
 
@@ -200,7 +200,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | Recipe for running nanobot on Raspberry Pi |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 86 | nanobot × SillyTavern, with Companion Mode |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 87 | nanobot × SillyTavern, with Companion Mode |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 79 | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 15 | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
@@ -213,7 +213,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 50 | Tauri + React desktop client |
+| [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 51 | Tauri + React desktop client |
 | [nanobot-webui](https://github.com/codemo1991/nanobot-webui) | ⭐ 31 | Web UI with visual configuration & knowledge management |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 173 | Plug-and-play nanobot UI — ready to use on Windows 10+ |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | Windows desktop AI secretary based on nanobot |
