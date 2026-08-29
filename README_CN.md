@@ -294,7 +294,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 可定制的轻量级 Telegram Clawdbot |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 484 | 基于 nanobot 的递归自我改进个人助手 |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 302 | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 ## 桌面客户端
 
 | 项目 | Stars | 描述 |

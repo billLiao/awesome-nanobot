@@ -208,7 +208,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 484 | Recursive Self-Improvement Personal Assistant built on nanobot |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 302 | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 ## Desktop & GUI
 
 | Project | Stars | Description |
