@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: nanobot Discussions
+    url: https://github.com/HKUDS/nanobot/discussions
+    about: Framework usage questions / 框架使用问题请到官方 Discussions
+  - name: nanobot Discord
+    url: https://discord.gg/MnCvHqpUGB
+    about: Community chat / 社区交流
