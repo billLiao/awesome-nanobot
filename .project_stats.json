@@ -1,1 +1,322 @@
-{"nanobot":{"stars":47735,"forks":8426},"awesome-nanobot":{"stars":23,"forks":3},"SwarmClaw":{"stars":662,"forks":137},"MultiUserClaw":{"stars":318,"forks":86},"NanoMate":{"stars":88,"forks":10},"ShibaClaw":{"stars":80,"forks":9},"maxclaw":{"stars":231,"forks":34},"GeneClaw":{"stars":45,"forks":8},"nano-claw":{"stars":67,"forks":13},"nanobot-rs":{"stars":9,"forks":6},"nanobot-desktop":{"stars":51,"forks":12},"learn-nanobot":{"stars":798,"forks":80},"nanoBot-ui":{"stars":173,"forks":6},"nanobot-eino":{"stars":40,"forks":6},"nanobot-channel-weixin":{"stars":14,"forks":6},"nanoorabot":{"stars":15,"forks":6},"huanzhen-secretary":{"stars":19,"forks":0},"Krill.jl":{"stars":29,"forks":0},"clawos":{"stars":17,"forks":4},"Finclaw":{"stars":12,"forks":2},"smith":{"stars":8,"forks":3},"Claude-Zeroclaw":{"stars":7,"forks":0},"agentclub":{"stars":5,"forks":0},"KnowAct":{"stars":484,"forks":41},"syll":{"stars":303,"forks":2},"nanobot-docker":{"stars":17,"forks":0},"nanobot-rs-yjhmelody":{"stars":15,"forks":2},"Nanobot-Feishu":{"stars":13,"forks":2},"agent-unpacked":{"stars":17,"forks":0},"Codex-Listener":{"stars":15,"forks":2},"nanobot-hindsight-memory":{"stars":1,"forks":0}}
+{
+ "450home/nanobot-a2a-proxy": {
+  "forks": 0,
+  "stars": 1
+ },
+ "AbuZar-Ansarii/NanoBot-Android": {
+  "forks": 7,
+  "stars": 38
+ },
+ "CCAgentOrg/nanobot-skills": {
+  "forks": null,
+  "stars": null
+ },
+ "Clawland-AI/Geneclaw": {
+  "forks": 8,
+  "stars": 45
+ },
+ "D-Sketon/tinyclaw": {
+  "forks": 0,
+  "stars": 3
+ },
+ "EvannZhongg/nanobot-desktop": {
+  "forks": 12,
+  "stars": 51
+ },
+ "FloatTech/NanoBot-Plugin": {
+  "forks": 29,
+  "stars": 105
+ },
+ "Good0007/nanobot-webui": {
+  "forks": 43,
+  "stars": 151
+ },
+ "HITsz-TMG/KnowAct": {
+  "forks": 41,
+  "stars": 483
+ },
+ "HKUDS/ClawTeam": {
+  "forks": 759,
+  "stars": 5528
+ },
+ "HKUDS/ClawWork": {
+  "forks": 1104,
+  "stars": 8538
+ },
+ "HKUDS/MoChat": {
+  "forks": 50,
+  "stars": 231
+ },
+ "HKUDS/nanobot": {
+  "forks": 8436,
+  "stars": 47772
+ },
+ "JunSuzuki1973/MetalClaw": {
+  "forks": 0,
+  "stars": 4
+ },
+ "Lichas/maxclaw": {
+  "forks": 34,
+  "stars": 231
+ },
+ "Minggnim-jpg/nanobot-task-pipeline": {
+  "forks": 0,
+  "stars": 14
+ },
+ "Miosa-osa/OSA": {
+  "forks": 19,
+  "stars": 51
+ },
+ "OpenRaiser/NanoResearch": {
+  "forks": 97,
+  "stars": 1364
+ },
+ "ProjectViVy/agent-diva": {
+  "forks": 11,
+  "stars": 65
+ },
+ "RikyZ90/ShibaClaw": {
+  "forks": 9,
+  "stars": 80
+ },
+ "SJK-py/nanobot-searxng-search": {
+  "forks": 0,
+  "stars": 4
+ },
+ "THU-SAGE/syll": {
+  "forks": 2,
+  "stars": 303
+ },
+ "TalexCK/Codex-Listener": {
+  "forks": 2,
+  "stars": 15
+ },
+ "WOWCharlotte/nanobot-learn": {
+  "forks": 16,
+  "stars": 99
+ },
+ "WangyiNTU/nanobot-study": {
+  "forks": 1,
+  "stars": 17
+ },
+ "Wuuu-uu/nanobot-feishu-specilized": {
+  "forks": 8,
+  "stars": 70
+ },
+ "ajiany/nanobot-golang": {
+  "forks": 0,
+  "stars": 0
+ },
+ "alvis233/nanobot-channel-weixin": {
+  "forks": 6,
+  "stars": 14
+ },
+ "auenger/Nanobot-Feishu": {
+  "forks": 2,
+  "stars": 13
+ },
+ "bcefghj/learn-nanobot": {
+  "forks": 80,
+  "stars": 800
+ },
+ "billLiao/bark-push-skills": {
+  "forks": 0,
+  "stars": 1
+ },
+ "billLiao/jina-search-skill": {
+  "forks": 0,
+  "stars": 0
+ },
+ "bmtrnavsky/nanobot-hindsight-memory-and-skill-review": {
+  "forks": 0,
+  "stars": 1
+ },
+ "breath57/how-ai-agents-remember": {
+  "forks": 3,
+  "stars": 44
+ },
+ "ciri/nanobot-docker": {
+  "forks": 0,
+  "stars": 6
+ },
+ "codemo1991/nanobot-webui": {
+  "forks": 9,
+  "stars": 31
+ },
+ "cuichuankai/nanobot-go": {
+  "forks": 0,
+  "stars": 6
+ },
+ "dantezhu/agentclub": {
+  "forks": 0,
+  "stars": 5
+ },
+ "deeeeeeeeap/nanobot-custom": {
+  "forks": 12,
+  "stars": 66
+ },
+ "fumiama/NanoBot": {
+  "forks": 7,
+  "stars": 60
+ },
+ "hedging8563/lemonclaw": {
+  "forks": 0,
+  "stars": 1
+ },
+ "hustcc/nano-claw": {
+  "forks": 13,
+  "stars": 67
+ },
+ "hyokyunAn/nanobot_teams": {
+  "forks": 0,
+  "stars": 0
+ },
+ "iamclancyliang/nanobot-eino": {
+  "forks": 6,
+  "stars": 40
+ },
+ "imxcstar/sharpclaw": {
+  "forks": 7,
+  "stars": 26
+ },
+ "johnson7788/MultiUserClaw": {
+  "forks": 86,
+  "stars": 317
+ },
+ "kuhua7902-debug/huanzhen-secretary": {
+  "forks": 0,
+  "stars": 19
+ },
+ "lepollo/NanoBot.net": {
+  "forks": 4,
+  "stars": 13
+ },
+ "licheng5625/nanobot-hass": {
+  "forks": 0,
+  "stars": 1
+ },
+ "lispking/ferrum-bot": {
+  "forks": 4,
+  "stars": 25
+ },
+ "lucmuss/nanobot-webgui": {
+  "forks": 3,
+  "stars": 22
+ },
+ "martinpmm/Finclaw": {
+  "forks": 2,
+  "stars": 12
+ },
+ "matthewlee0102/FastSkills": {
+  "forks": 4,
+  "stars": 15
+ },
+ "mrytsr/clawos": {
+  "forks": 4,
+  "stars": 17
+ },
+ "msaltnet/nanobot-on-rpi": {
+  "forks": 0,
+  "stars": 0
+ },
+ "mu-xi-mu-xi/mini_nanobot": {
+  "forks": 3,
+  "stars": 12
+ },
+ "nanocoai/nanoclaw": {
+  "forks": 12855,
+  "stars": 30711
+ },
+ "obot-platform/nanobot": {
+  "forks": 203,
+  "stars": 1338
+ },
+ "open-vibe/nanobot-rs": {
+  "forks": 6,
+  "stars": 9
+ },
+ "openlegion-ai/openlegion": {
+  "forks": 27,
+  "stars": 117
+ },
+ "qq695500710-ui/nanoBot-ui": {
+  "forks": 6,
+  "stars": 173
+ },
+ "ruslanstarikov/nanobot-skills": {
+  "forks": 0,
+  "stars": 0
+ },
+ "rzx007/nanobot-ts": {
+  "forks": 1,
+  "stars": 14
+ },
+ "shenmintao/NanoMate": {
+  "forks": 10,
+  "stars": 88
+ },
+ "sine-io/byte-of-nanobot": {
+  "forks": 14,
+  "stars": 108
+ },
+ "swarmclawai/swarmclaw": {
+  "forks": 137,
+  "stars": 664
+ },
+ "tankyhsu/nanobot-viking": {
+  "forks": 1,
+  "stars": 10
+ },
+ "tankyhsu/nanobot-web-console": {
+  "forks": 6,
+  "stars": 13
+ },
+ "valenwong-exa/nanoorabot": {
+  "forks": 6,
+  "stars": 15
+ },
+ "vaskesvo5321/Claude-Zeroclaw": {
+  "forks": 0,
+  "stars": 7
+ },
+ "volkergrabbe/nanobot-setup": {
+  "forks": 0,
+  "stars": 2
+ },
+ "vseplet/smith": {
+  "forks": 3,
+  "stars": 8
+ },
+ "wanikua/byebyeclaw": {
+  "forks": 4,
+  "stars": 76
+ },
+ "warengonzaga/tinyclaw": {
+  "forks": 41,
+  "stars": 289
+ },
+ "whanyu1212/Krill.jl": {
+  "forks": 0,
+  "stars": 29
+ },
+ "yangkun19921001/PP-Claw": {
+  "forks": 8,
+  "stars": 37
+ },
+ "yjhmelody/nanobot-rs": {
+  "forks": 2,
+  "stars": 15
+ },
+ "yu-xin-c/agent-unpacked": {
+  "forks": 0,
+  "stars": 17
+ },
+ "yu-xin-c/nanobot-llm-wiki": {
+  "forks": 0,
+  "stars": 13
+ },
+ "ywz456/agent-tutor": {
+  "forks": 0,
+  "stars": 1
+ }
+}
