@@ -263,14 +263,14 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 231 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.5k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 665 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 667 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 45 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | ✅ Active | 基于 nanobot 的轻量级代理框架 |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | ✅ Active | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | 自动化安装脚本（Docker + Redis + Qdrant） |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 38 | 🪦 Unmaintained | Android 个人 AI 助手 — 灵感来自 nanobot |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 51 | ✅ Active | 最优系统代理 — 最大化信号提取 |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 53 | ✅ Active | 最优系统代理 — 最大化信号提取 |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 76 | ✅ Active | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 30.7k | ✅ Active | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 17 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
