@@ -263,7 +263,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 231 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.5k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 668 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 669 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 45 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | ✅ Active | 基于 nanobot 的轻量级代理框架 |
