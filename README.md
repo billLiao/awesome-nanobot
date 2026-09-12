@@ -177,14 +177,14 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 231 | 🪦 Unmaintained | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.5k | 🪦 Unmaintained | OpenClaw/Nanobot integration |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent swarm intelligence — orchestrates Claude Code/Codex/OpenClaw/nanobot CLI agents as teams |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 669 | ✅ Active | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 670 | ✅ Active | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 45 | 🪦 Unmaintained | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | ✅ Active | Lightweight agent framework based on nanobot |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | ✅ Active | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | Automated installation script (Docker + Redis + Qdrant) |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 39 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 53 | ✅ Active | Optimal System Agent — maximizes signal extraction |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 54 | ✅ Active | Optimal System Agent — maximizes signal extraction |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 76 | ✅ Active | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 30.7k | ✅ Active | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 17 | 🪦 Unmaintained | Master AI Agent Assistant in 3 Days — guided study plan |
@@ -202,7 +202,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 1 | ✅ Active | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | ✅ Active | Recipe for running nanobot on Raspberry Pi |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | ✅ Active | nanobot × SillyTavern, with Companion Mode |
-| [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 80 | ✅ Active | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
+| [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 81 | ✅ Active | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 | [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 15 | ✅ Active | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | ✅ Active | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | ✅ Active | Proactive Finance assistant built on nanobot |
