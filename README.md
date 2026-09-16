@@ -194,7 +194,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | ✅ Active | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | Dockerized setup for nanobot |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 22 | ✅ Active | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
-| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 151 | ✅ Active | A self-hosted web management panel for nanobot-ai |
+| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 150 | ✅ Active | A self-hosted web management panel for nanobot-ai |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | ✅ Active | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | ✅ Active | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 1 | ✅ Active | A2A Proxy for nanobot agent communication |
@@ -208,7 +208,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | ✅ Active | Proactive Finance assistant built on nanobot |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 485 | ✅ Active | Recursive Self-Improvement Personal Assistant built on nanobot |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 483 | ✅ Active | Recursive Self-Improvement Personal Assistant built on nanobot |
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 
 ## Desktop & GUI
@@ -235,7 +235,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | 🪦 Unmaintained | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | ✅ Active | Lightweight LLM Agent framework for learning |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 38 | ✅ Active | Go version of nanobot |
-| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 41 | ✅ Active | AI Agent in Go based on Cloudwego Eino framework |
+| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 42 | ✅ Active | AI Agent in Go based on Cloudwego Eino framework |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | ✅ Active | Lightweight nanobot/OpenClaw variant in pure Julia |
 | [nanobot-rs (yjhmelody)](https://github.com/yjhmelody/nanobot-rs) | ⭐ 15 | ✅ Active | Minimal openclaw-like AI agent in Rust |
 
