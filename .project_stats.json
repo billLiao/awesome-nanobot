@@ -7,10 +7,6 @@
   "forks": 7,
   "stars": 39
  },
- "CCAgentOrg/nanobot-skills": {
-  "forks": null,
-  "stars": null
- },
  "Clawland-AI/Geneclaw": {
   "forks": 8,
   "stars": 45
@@ -29,7 +25,7 @@
  },
  "Good0007/nanobot-webui": {
   "forks": 42,
-  "stars": 149
+  "stars": 150
  },
  "HITsz-TMG/KnowAct": {
   "forks": 42,
@@ -37,19 +33,19 @@
  },
  "HKUDS/ClawTeam": {
   "forks": 764,
-  "stars": 5539
+  "stars": 5541
  },
  "HKUDS/ClawWork": {
-  "forks": 1105,
-  "stars": 8549
+  "forks": 1103,
+  "stars": 8550
  },
  "HKUDS/MoChat": {
   "forks": 50,
-  "stars": 231
+  "stars": 230
  },
  "HKUDS/nanobot": {
-  "forks": 8445,
-  "stars": 47853
+  "forks": 8565,
+  "stars": 48461
  },
  "JunSuzuki1973/MetalClaw": {
   "forks": 0,
@@ -58,6 +54,10 @@
  "Lichas/maxclaw": {
   "forks": 34,
   "stars": 231
+ },
+ "LogicIncZo/nanobot-skills": {
+  "forks": 0,
+  "stars": 1
  },
  "Minggnim-jpg/nanobot-task-pipeline": {
   "forks": 0,
@@ -68,8 +68,8 @@
   "stars": 58
  },
  "OpenRaiser/NanoResearch": {
-  "forks": 98,
-  "stars": 1371
+  "forks": 99,
+  "stars": 1369
  },
  "ProjectViVy/agent-diva": {
   "forks": 11,
@@ -117,7 +117,7 @@
  },
  "bcefghj/learn-nanobot": {
   "forks": 84,
-  "stars": 836
+  "stars": 837
  },
  "billLiao/bark-push-skills": {
   "forks": 0,
@@ -224,12 +224,12 @@
   "stars": 12
  },
  "nanocoai/nanoclaw": {
-  "forks": 12829,
-  "stars": 30808
+  "forks": 12828,
+  "stars": 30818
  },
  "obot-platform/nanobot": {
   "forks": 203,
-  "stars": 1345
+  "stars": 1344
  },
  "open-vibe/nanobot-rs": {
   "forks": 6,
@@ -257,11 +257,11 @@
  },
  "sine-io/byte-of-nanobot": {
   "forks": 14,
-  "stars": 110
+  "stars": 111
  },
  "swarmclawai/swarmclaw": {
   "forks": 138,
-  "stars": 677
+  "stars": 681
  },
  "tankyhsu/nanobot-viking": {
   "forks": 1,
@@ -273,7 +273,7 @@
  },
  "valenwong-exa/nanoorabot": {
   "forks": 7,
-  "stars": 19
+  "stars": 20
  },
  "vaskesvo5321/Claude-Zeroclaw": {
   "forks": 0,

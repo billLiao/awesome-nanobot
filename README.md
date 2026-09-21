@@ -153,7 +153,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [jina-search-skill](https://github.com/billLiao/jina-search-skill) | billLiao | ✅ Active | Jina.ai web search and page reading |
 | [bark-push-skills](https://github.com/billLiao/bark-push-skills) | billLiao | ✅ Active | iOS push notifications |
 | [nanobot-skills](https://github.com/ruslanstarikov/nanobot-skills) | ruslanstarikov | 🪦 Unmaintained | Custom skills collection |
-| [nanobot-skills](https://github.com/CCAgentOrg/nanobot-skills) | CCAgentOrg | ✅ Active | github-watcher, youtube-recommender |
+| [nanobot-skills](https://github.com/LogicIncZo/nanobot-skills) | LogicIncZo | ✅ Active | github-watcher, youtube-recommender |
 | [nanobot-channel-weixin](https://github.com/alvis233/nanobot-channel-weixin) | alvis233 | ✅ Active | Personal WeChat channel plugin (via iLink Bot API) |
 
 ### Skill Registry
@@ -174,10 +174,10 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | ✅ Active | MCP server that brings Agent Skills to any MCP-compatible agent |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 66 | ✅ Active | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
-| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 231 | 🪦 Unmaintained | Claw IM client, nanobot channel support |
-| [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.5k | 🪦 Unmaintained | OpenClaw/Nanobot integration |
+| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 230 | 🪦 Unmaintained | Claw IM client, nanobot channel support |
+| [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot integration |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent swarm intelligence — orchestrates Claude Code/Codex/OpenClaw/nanobot CLI agents as teams |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 677 | ✅ Active | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 681 | ✅ Active | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 45 | 🪦 Unmaintained | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | ✅ Active | Lightweight agent framework based on nanobot |
@@ -194,7 +194,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | ✅ Active | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | Dockerized setup for nanobot |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 22 | ✅ Active | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
-| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 149 | ✅ Active | A self-hosted web management panel for nanobot-ai |
+| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 150 | ✅ Active | A self-hosted web management panel for nanobot-ai |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | ✅ Active | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | ✅ Active | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 1 | ✅ Active | A2A Proxy for nanobot agent communication |
@@ -203,7 +203,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | ✅ Active | Recipe for running nanobot on Raspberry Pi |
 | [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | ✅ Active | nanobot × SillyTavern, with Companion Mode |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 81 | ✅ Active | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
-| [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 19 | ✅ Active | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
+| [nanoorabot](https://github.com/valenwong-exa/nanoorabot) | ⭐ 20 | ✅ Active | AI System Agent based on nanobot & nanobot-webui — long-running autonomous system administrator |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | ✅ Active | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | ✅ Active | Proactive Finance assistant built on nanobot |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | Hackable skinny Clawdbot for Telegram |
