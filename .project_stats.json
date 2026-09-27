@@ -28,24 +28,24 @@
   "stars": 149
  },
  "HITsz-TMG/KnowAct": {
-  "forks": 42,
+  "forks": 41,
   "stars": 486
  },
  "HKUDS/ClawTeam": {
-  "forks": 765,
-  "stars": 5544
+  "forks": 766,
+  "stars": 5543
  },
  "HKUDS/ClawWork": {
   "forks": 1102,
-  "stars": 8553
+  "stars": 8555
  },
  "HKUDS/MoChat": {
   "forks": 50,
   "stars": 230
  },
  "HKUDS/nanobot": {
-  "forks": 8585,
-  "stars": 48598
+  "forks": 8593,
+  "stars": 48620
  },
  "JunSuzuki1973/MetalClaw": {
   "forks": 0,
@@ -53,7 +53,7 @@
  },
  "Lichas/maxclaw": {
   "forks": 34,
-  "stars": 231
+  "stars": 230
  },
  "LogicIncZo/nanobot-skills": {
   "forks": 0,
@@ -65,7 +65,7 @@
  },
  "Miosa-osa/OSA": {
   "forks": 19,
-  "stars": 74
+  "stars": 75
  },
  "OpenRaiser/NanoResearch": {
   "forks": 101,
@@ -117,7 +117,7 @@
  },
  "bcefghj/learn-nanobot": {
   "forks": 85,
-  "stars": 843
+  "stars": 846
  },
  "billLiao/bark-push-skills": {
   "forks": 0,
@@ -224,8 +224,8 @@
   "stars": 12
  },
  "nanocoai/nanoclaw": {
-  "forks": 12815,
-  "stars": 30846
+  "forks": 12808,
+  "stars": 30852
  },
  "obot-platform/nanobot": {
   "forks": 203,
@@ -236,8 +236,8 @@
   "stars": 9
  },
  "openlegion-ai/openlegion": {
-  "forks": 28,
-  "stars": 122
+  "forks": 29,
+  "stars": 123
  },
  "qq695500710-ui/nanoBot-ui": {
   "forks": 6,
@@ -260,8 +260,8 @@
   "stars": 111
  },
  "swarmclawai/swarmclaw": {
-  "forks": 138,
-  "stars": 681
+  "forks": 140,
+  "stars": 684
  },
  "tankyhsu/nanobot-viking": {
   "forks": 1,
@@ -298,6 +298,10 @@
  "whanyu1212/Krill.jl": {
   "forks": 0,
   "stars": 29
+ },
+ "win4r/ClawTeam-OpenClaw": {
+  "forks": 320,
+  "stars": 1456
  },
  "yangkun19921001/PP-Claw": {
   "forks": 9,
