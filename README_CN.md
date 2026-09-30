@@ -260,11 +260,11 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | 🪦 Unmaintained | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 66 | ✅ Active | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
-| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 230 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
+| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 229 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam 的 OpenClaw 适配版 — 以 OpenClaw 为默认代理的多代理群体协调（支持 nanobot）|
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 687 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 689 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 45 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | 基于 nanobot 的轻量级代理框架 |
@@ -297,6 +297,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 486 | ✅ Active | 基于 nanobot 的递归自我改进个人助手 |
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
+| [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 
 ## 桌面客户端
 
@@ -313,7 +314,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 |---------|-------|--------|-------------|
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | 🪦 Unmaintained | .NET 10 移植版 |
 | [nanobot-rs (open-vibe)](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | 🪦 Unmaintained | Rust 移植版 |
-| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 26 | ✅ Active | 具有长期记忆的 AI 代理（.NET 10） |
+| [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | ✅ Active | 具有长期记忆的 AI 代理（.NET 10） |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | ✅ Active | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 65 | ✅ Active | 下一代 AI 代理（nanobot-rs-pro，Rust） |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 🪦 Unmaintained | 个性化 AI 助手分支 |
