@@ -28,11 +28,11 @@
   "forks": 42
  },
  "HITsz-TMG/KnowAct": {
-  "stars": 485,
+  "stars": 480,
   "forks": 41
  },
  "HKUDS/ClawTeam": {
-  "stars": 5536,
+  "stars": 5534,
   "forks": 766
  },
  "HKUDS/ClawWork": {
@@ -44,8 +44,8 @@
   "forks": 50
  },
  "HKUDS/nanobot": {
-  "stars": 48974,
-  "forks": 8628
+  "stars": 48997,
+  "forks": 8633
  },
  "JunSuzuki1973/MetalClaw": {
   "stars": 2,
@@ -68,7 +68,7 @@
   "forks": 20
  },
  "OpenRaiser/NanoResearch": {
-  "stars": 1341,
+  "stars": 1342,
   "forks": 91
  },
  "ProjectViVy/agent-diva": {
@@ -116,8 +116,12 @@
   "forks": 1
  },
  "bcefghj/learn-nanobot": {
-  "stars": 863,
+  "stars": 865,
   "forks": 88
+ },
+ "billLiao/awesome-nanobot": {
+  "stars": 26,
+  "forks": 3
  },
  "billLiao/bark-push-skills": {
   "stars": 1,
@@ -158,6 +162,10 @@
  "fumiama/NanoBot": {
   "stars": 60,
   "forks": 7
+ },
+ "galyarderlabs/galyarder-agent": {
+  "stars": 10,
+  "forks": 3
  },
  "hedging8563/lemonclaw": {
   "stars": 1,
@@ -228,11 +236,11 @@
   "forks": 4
  },
  "nanocoai/nanoclaw": {
-  "stars": 30929,
-  "forks": 12758
+  "stars": 30938,
+  "forks": 12759
  },
  "obot-platform/nanobot": {
-  "stars": 1360,
+  "stars": 1359,
   "forks": 205
  },
  "open-vibe/nanobot-rs": {
@@ -268,7 +276,7 @@
   "forks": 15
  },
  "swarmclawai/swarmclaw": {
-  "stars": 690,
+  "stars": 691,
   "forks": 140
  },
  "tankyhsu/nanobot-viking": {
@@ -308,7 +316,7 @@
   "forks": 0
  },
  "win4r/ClawTeam-OpenClaw": {
-  "stars": 1463,
+  "stars": 1464,
   "forks": 319
  },
  "yangkun19921001/PP-Claw": {
@@ -324,7 +332,7 @@
   "forks": 2
  },
  "yu-xin-c/agent-unpacked": {
-  "stars": 18,
+  "stars": 19,
   "forks": 0
  },
  "yu-xin-c/nanobot-llm-wiki": {
