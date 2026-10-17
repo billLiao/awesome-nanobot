@@ -255,7 +255,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.4k | 🗄️ Archived | 构建 MCP Agents — 同名项目（MCP Agent 框架），与 HKUDS/nanobot 无关 |
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.3k | ✅ Active | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
 | [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 295 | ✅ Active | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 124 | ✅ Active | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 125 | ✅ Active | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 326 | ✅ Active | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | 🪦 Unmaintained | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
@@ -278,7 +278,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 🪦 Unmaintained | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 69 | ✅ Active | 飞书专用版本，增强功能 |
-| [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | ✅ Active | AI Agent Platform (MIT, fork of nanobot) |
+| [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | nanobot 的 Docker 部署配置 |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 22 | ✅ Active | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
 | [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 150 | ✅ Active | nanobot 自托管 Web 管理面板 |
@@ -317,7 +317,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-rs (open-vibe)](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | 🪦 Unmaintained | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 🪦 Unmaintained | 具有长期记忆的 AI 代理（.NET 10） |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | ✅ Active | 超轻量级 Go 语言 AI 助手 |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 65 | ✅ Active | 下一代 AI 代理（nanobot-rs-pro，Rust） |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 66 | ✅ Active | 下一代 AI 代理（nanobot-rs-pro，Rust） |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 🪦 Unmaintained | 个性化 AI 助手分支 |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🪦 Unmaintained | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript） |
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | 🪦 Unmaintained | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
