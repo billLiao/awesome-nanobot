@@ -254,7 +254,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 |---------|-------|--------|-------------|
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.4k | 🗄️ Archived | 构建 MCP Agents — 同名项目（MCP Agent 框架），与 HKUDS/nanobot 无关 |
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.3k | ✅ Active | 🦞+🔬 基于 nanobot 的自主 AI 研究助手 |
-| [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 295 | ✅ Active | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
+| [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 297 | ✅ Active | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 125 | ✅ Active | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 326 | ✅ Active | OpenClaw/NanoBot 多用户支持 |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
@@ -264,7 +264,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam 的 OpenClaw 适配版 — 以 OpenClaw 为默认代理的多代理群体协调（支持 nanobot）|
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 692 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 694 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 46 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | 基于 nanobot 的轻量级代理框架 |
@@ -274,7 +274,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 78 | ✅ Active | 最优系统代理 — 最大化信号提取 |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 75 | 🪦 Unmaintained | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | ✅ Active | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
-| [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 18 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
+| [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 19 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 🪦 Unmaintained | 管理多个在隔离工作空间中协作的 AI 代理团队 |
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 69 | ✅ Active | 飞书专用版本，增强功能 |
