@@ -178,20 +178,20 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot integration |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent swarm intelligence — orchestrates Claude Code/Codex/OpenClaw/nanobot CLI agents as teams |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent (supports nanobot) |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 696 | ✅ Active | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 697 | ✅ Active | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 46 | 🪦 Unmaintained | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | Lightweight agent framework based on nanobot |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | 🪦 Unmaintained | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | Automated installation script (Docker + Redis + Qdrant) |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 40 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 78 | ✅ Active | Optimal System Agent — maximizes signal extraction |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | Optimal System Agent — maximizes signal extraction |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 75 | 🪦 Unmaintained | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | ✅ Active | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 19 | 🪦 Unmaintained | Master AI Agent Assistant in 3 Days — guided study plan |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking knowledge base integration — RAG, semantic search, vector embeddings |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 🪦 Unmaintained | Manage multiple AI agent teams collaborating in isolated workspaces |
-| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 69 | ✅ Active | Feishu-specific version with enhanced features |
+| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 70 | ✅ Active | Feishu-specific version with enhanced features |
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | Dockerized setup for nanobot |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 22 | ✅ Active | Production-focused web GUI fork with setup wizard, MCP management, chat, memory, and admin controls |
@@ -210,7 +210,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 480 | ✅ Active | Recursive Self-Improvement Personal Assistant built on nanobot |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 305 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | Hard fork of nanobot with significant optimizations — interactive onboarding, WeChat channel support |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | Experimental agent runtime derived from nanobot — persistent memory, multi-channel presence (WhatsApp/Telegram/Discord/Email/CLI) |
 
@@ -222,6 +222,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | ✅ Active | Web UI with visual configuration & knowledge management |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | Plug-and-play nanobot UI — ready to use on Windows 10+ |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | Windows desktop AI secretary based on nanobot |
+| [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | Local-first, chat-first AI assistant for Windows — built on nanobot |
 
 ## Language Ports
 
@@ -237,7 +238,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | 🪦 Unmaintained | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | 🪦 Unmaintained | Go implementation of nanobot |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | 🪦 Unmaintained | Lightweight LLM Agent framework for learning |
-| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | ✅ Active | Go version of nanobot |
+| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | 🪦 Unmaintained | Go version of nanobot |
 | [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 43 | ✅ Active | AI Agent in Go based on Cloudwego Eino framework |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | 🪦 Unmaintained | Lightweight nanobot/OpenClaw variant in pure Julia |
 | [nanobot-rs (yjhmelody)](https://github.com/yjhmelody/nanobot-rs) | ⭐ 16 | ✅ Active | Minimal openclaw-like AI agent in Rust |

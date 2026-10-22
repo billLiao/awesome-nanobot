@@ -264,20 +264,20 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
 | [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam 的 OpenClaw 适配版 — 以 OpenClaw 为默认代理的多代理群体协调（支持 nanobot）|
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 696 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 697 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 46 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | 基于 nanobot 的轻量级代理框架 |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | 🪦 Unmaintained | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | 自动化安装脚本（Docker + Redis + Qdrant） |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 40 | 🪦 Unmaintained | Android 个人 AI 助手 — 灵感来自 nanobot |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 78 | ✅ Active | 最优系统代理 — 最大化信号提取 |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | 最优系统代理 — 最大化信号提取 |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 75 | 🪦 Unmaintained | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | ✅ Active | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 19 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
 | [nanobot-teams](https://github.com/hyokyunAn/nanobot_teams) | ⭐ 0 | 🪦 Unmaintained | 管理多个在隔离工作空间中协作的 AI 代理团队 |
-| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 69 | ✅ Active | 飞书专用版本，增强功能 |
+| [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 70 | ✅ Active | 飞书专用版本，增强功能 |
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | nanobot 的 Docker 部署配置 |
 | [nanobot-webgui](https://github.com/lucmuss/nanobot-webgui) | ⭐ 22 | ✅ Active | 生产级 Web GUI 分支，包含设置向导、MCP 管理、聊天、记忆和管理控制 |
@@ -296,7 +296,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | 可定制的轻量级 Telegram Clawdbot |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 480 | ✅ Active | 基于 nanobot 的递归自我改进个人助手 |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 305 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | 基于 nanobot 衍生的实验性 Agent 运行时 — 持久记忆、多渠道在线（WhatsApp/Telegram/Discord/Email/CLI） |
 
@@ -308,6 +308,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | ✅ Active | Web UI，可视化配置和知识管理 |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | 基于 nanobot 的 Windows 桌面 AI 智能秘书 |
+| [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | 本地优先、对话优先的 Windows AI 助手 — 基于 nanobot |
 
 ## 语言移植版
 
@@ -323,7 +324,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | 🪦 Unmaintained | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 6 | 🪦 Unmaintained | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | 🪦 Unmaintained | 用于学习的轻量级 LLM 代理框架 |
-| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | ✅ Active | Go 语言版 nanobot |
+| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | 🪦 Unmaintained | Go 语言版 nanobot |
 | [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 43 | ✅ Active | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | 🪦 Unmaintained | 纯 Julia 编写的轻量级 nanobot/OpenClaw 变体 |
 | [nanobot-rs (yjhmelody)](https://github.com/yjhmelody/nanobot-rs) | ⭐ 16 | ✅ Active | 极简 openclaw 风格 AI 代理（Rust） |
