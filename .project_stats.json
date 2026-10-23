@@ -23,6 +23,10 @@
   "stars": 105,
   "forks": 29
  },
+ "FoxRick/Collie": {
+  "stars": 12,
+  "forks": 0
+ },
  "Good0007/nanobot-webui": {
   "stars": 149,
   "forks": 41
@@ -33,19 +37,19 @@
  },
  "HKUDS/ClawTeam": {
   "stars": 5540,
-  "forks": 763
+  "forks": 762
  },
  "HKUDS/ClawWork": {
   "stars": 8561,
-  "forks": 1088
+  "forks": 1087
  },
  "HKUDS/MoChat": {
   "stars": 229,
   "forks": 49
  },
  "HKUDS/nanobot": {
-  "stars": 49280,
-  "forks": 8669
+  "stars": 49305,
+  "forks": 8673
  },
  "JunSuzuki1973/MetalClaw": {
   "stars": 2,
@@ -68,7 +72,7 @@
   "forks": 20
  },
  "OpenRaiser/NanoResearch": {
-  "stars": 1338,
+  "stars": 1339,
   "forks": 91
  },
  "ProjectViVy/agent-diva": {
@@ -236,12 +240,12 @@
   "forks": 4
  },
  "nanocoai/nanoclaw": {
-  "stars": 30993,
-  "forks": 12725
+  "stars": 31004,
+  "forks": 12721
  },
  "obot-platform/nanobot": {
   "stars": 1361,
-  "forks": 205
+  "forks": 204
  },
  "open-vibe/nanobot-rs": {
   "stars": 9,
@@ -276,7 +280,7 @@
   "forks": 16
  },
  "swarmclawai/swarmclaw": {
-  "stars": 697,
+  "stars": 698,
   "forks": 142
  },
  "tankyhsu/nanobot-viking": {
@@ -316,7 +320,7 @@
   "forks": 0
  },
  "win4r/ClawTeam-OpenClaw": {
-  "stars": 1467,
+  "stars": 1468,
   "forks": 315
  },
  "yangkun19921001/PP-Claw": {
