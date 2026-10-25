@@ -271,7 +271,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | 🪦 Unmaintained | 单文件 Web 控制台，实时流式聊天 |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | 自动化安装脚本（Docker + Redis + Qdrant） |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 40 | 🪦 Unmaintained | Android 个人 AI 助手 — 灵感来自 nanobot |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | 最优系统代理 — 最大化信号提取 |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 78 | ✅ Active | 最优系统代理 — 最大化信号提取 |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 75 | 🪦 Unmaintained | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | ✅ Active | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 19 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
@@ -305,7 +305,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | 项目 | Stars | 状态 | 描述 |
 |---------|-------|--------|-------------|
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 52 | 🪦 Unmaintained | Tauri + React 桌面客户端 |
-| [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | ✅ Active | Web UI，可视化配置和知识管理 |
+| [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | 🪦 Unmaintained | Web UI，可视化配置和知识管理 |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | 基于 nanobot 的 Windows 桌面 AI 智能秘书 |
 | [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | 本地优先、对话优先的 Windows AI 助手 — 基于 nanobot |

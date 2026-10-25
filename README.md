@@ -185,7 +185,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | 🪦 Unmaintained | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | Automated installation script (Docker + Redis + Qdrant) |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 40 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
-| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | Optimal System Agent — maximizes signal extraction |
+| [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 78 | ✅ Active | Optimal System Agent — maximizes signal extraction |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 75 | 🪦 Unmaintained | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31k | ✅ Active | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 19 | 🪦 Unmaintained | Master AI Agent Assistant in 3 Days — guided study plan |
@@ -219,7 +219,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | Project | Stars | Status | Description |
 |---------|-------|--------|-------------|
 | [nanobot-desktop](https://github.com/EvannZhongg/nanobot-desktop) | ⭐ 52 | 🪦 Unmaintained | Tauri + React desktop client |
-| [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | ✅ Active | Web UI with visual configuration & knowledge management |
+| [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | 🪦 Unmaintained | Web UI with visual configuration & knowledge management |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | Plug-and-play nanobot UI — ready to use on Windows 10+ |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | Windows desktop AI secretary based on nanobot |
 | [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | Local-first, chat-first AI assistant for Windows — built on nanobot |
