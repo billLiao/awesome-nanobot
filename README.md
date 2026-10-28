@@ -210,8 +210,8 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 🪦 Unmaintained | Proactive Finance assistant built on nanobot |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | Hackable skinny Clawdbot for Telegram |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | Lightweight daemon — turns Claude Code into a task scheduler & Telegram assistant |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 481 | ✅ Active | Recursive Self-Improvement Personal Assistant built on nanobot |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 480 | ✅ Active | Recursive Self-Improvement Personal Assistant built on nanobot |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | Hard fork of nanobot with significant optimizations — interactive onboarding, WeChat channel support |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | Experimental agent runtime derived from nanobot — persistent memory, multi-channel presence (WhatsApp/Telegram/Discord/Email/CLI) |
 
@@ -223,7 +223,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | 🪦 Unmaintained | Web UI with visual configuration & knowledge management |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | Plug-and-play nanobot UI — ready to use on Windows 10+ |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | Windows desktop AI secretary based on nanobot |
-| [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | Local-first, chat-first AI assistant for Windows — built on nanobot |
+| [Collie](https://github.com/FoxRick/Collie) | ⭐ 11 | ✅ Active | Local-first, chat-first AI assistant for Windows — built on nanobot |
 
 ## Language Ports
 
@@ -232,7 +232,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | 🪦 Unmaintained | .NET 10 port |
 | [nanobot-rs (open-vibe)](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | 🪦 Unmaintained | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 🪦 Unmaintained | AI agent with long-term memory (.NET 10) |
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 229 | ✅ Active | Ultra-Lightweight AI Assistant in Go |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | ✅ Active | Ultra-Lightweight AI Assistant in Go |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 66 | ✅ Active | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 🪦 Unmaintained | Personalized AI assistant fork |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🪦 Unmaintained | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |

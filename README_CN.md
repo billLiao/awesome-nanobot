@@ -296,8 +296,8 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 🪦 Unmaintained | 基于 nanobot 的主动式金融助手 |
 | [smith](https://github.com/vseplet/smith) | ⭐ 8 | 🪦 Unmaintained | 可定制的轻量级 Telegram Clawdbot |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
-| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 481 | ✅ Active | 基于 nanobot 的递归自我改进个人助手 |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 303 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
+| [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 480 | ✅ Active | 基于 nanobot 的递归自我改进个人助手 |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | 基于 nanobot 衍生的实验性 Agent 运行时 — 持久记忆、多渠道在线（WhatsApp/Telegram/Discord/Email/CLI） |
 
@@ -309,7 +309,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-webui (codemo1991)](https://github.com/codemo1991/nanobot-webui) | ⭐ 30 | 🪦 Unmaintained | Web UI，可视化配置和知识管理 |
 | [nanoBot-ui](https://github.com/qq695500710-ui/nanoBot-ui) | ⭐ 171 | 🪦 Unmaintained | 即开即用的 nanobot UI — Windows 10+ 可直接使用 |
 | [huanzhen-secretary](https://github.com/kuhua7902-debug/huanzhen-secretary) | ⭐ 19 | ✅ Active | 基于 nanobot 的 Windows 桌面 AI 智能秘书 |
-| [Collie](https://github.com/FoxRick/Collie) | ⭐ 12 | ✅ Active | 本地优先、对话优先的 Windows AI 助手 — 基于 nanobot |
+| [Collie](https://github.com/FoxRick/Collie) | ⭐ 11 | ✅ Active | 本地优先、对话优先的 Windows AI 助手 — 基于 nanobot |
 
 ## 语言移植版
 
@@ -318,7 +318,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [NanoBot.net](https://github.com/lepollo/NanoBot.net) | ⭐ 13 | 🪦 Unmaintained | .NET 10 移植版 |
 | [nanobot-rs (open-vibe)](https://github.com/open-vibe/nanobot-rs) | ⭐ 9 | 🪦 Unmaintained | Rust 移植版 |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 🪦 Unmaintained | 具有长期记忆的 AI 代理（.NET 10） |
-| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 229 | ✅ Active | 超轻量级 Go 语言 AI 助手 |
+| [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | ✅ Active | 超轻量级 Go 语言 AI 助手 |
 | [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 66 | ✅ Active | 下一代 AI 代理（nanobot-rs-pro，Rust） |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 🪦 Unmaintained | 个性化 AI 助手分支 |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 67 | 🪦 Unmaintained | 🦞 Claw 是你在自己的设备上运行的个人 AI 助手，但更轻量（TypeScript） |
