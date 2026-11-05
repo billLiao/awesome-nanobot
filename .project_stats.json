@@ -21,7 +21,7 @@
  },
  "EvannZhongg/nanobot-desktop": {
   "forks": 12,
-  "stars": 52
+  "stars": 53
  },
  "FloatTech/NanoBot-Plugin": {
   "forks": 29,
@@ -37,15 +37,15 @@
  },
  "HITsz-TMG/KnowAct": {
   "forks": 41,
-  "stars": 482
+  "stars": 481
  },
  "HKUDS/ClawTeam": {
-  "forks": 760,
-  "stars": 5548
+  "forks": 761,
+  "stars": 5549
  },
  "HKUDS/ClawWork": {
   "forks": 1087,
-  "stars": 8568
+  "stars": 8565
  },
  "HKUDS/MoChat": {
   "forks": 51,
@@ -53,7 +53,7 @@
  },
  "HKUDS/nanobot": {
   "forks": 8711,
-  "stars": 49798
+  "stars": 49833
  },
  "JunSuzuki1973/MetalClaw": {
   "forks": 0,
@@ -105,7 +105,7 @@
  },
  "WangyiNTU/nanobot-study": {
   "forks": 1,
-  "stars": 19
+  "stars": 18
  },
  "Wuuu-uu/nanobot-feishu-specilized": {
   "forks": 8,
@@ -125,7 +125,7 @@
  },
  "bcefghj/learn-nanobot": {
   "forks": 89,
-  "stars": 888
+  "stars": 891
  },
  "billLiao/awesome-nanobot": {
   "forks": 3,
@@ -215,10 +215,6 @@
   "forks": 5,
   "stars": 25
  },
- "lucmuss/nanobot-webgui": {
-  "forks": 4,
-  "stars": 22
- },
  "martinpmm/Finclaw": {
   "forks": 2,
   "stars": 12
@@ -244,8 +240,8 @@
   "stars": 12
  },
  "nanocoai/nanoclaw": {
-  "forks": 12677,
-  "stars": 31077
+  "forks": 12675,
+  "stars": 31085
  },
  "obot-platform/nanobot": {
   "forks": 203,
@@ -256,12 +252,12 @@
   "stars": 10
  },
  "openlegion-ai/openlegion": {
-  "forks": 30,
-  "stars": 129
+  "forks": 31,
+  "stars": 130
  },
  "qq695500710-ui/nanoBot-ui": {
   "forks": 6,
-  "stars": 168
+  "stars": 166
  },
  "render-examples/nanobot-render": {
   "forks": 1,
@@ -295,10 +291,6 @@
   "forks": 6,
   "stars": 13
  },
- "valenwong-exa/nanoorabot": {
-  "forks": 7,
-  "stars": 21
- },
  "vaskesvo5321/Claude-Zeroclaw": {
   "forks": 0,
   "stars": 7
@@ -313,10 +305,10 @@
  },
  "wanikua/byebyeclaw": {
   "forks": 5,
-  "stars": 74
+  "stars": 73
  },
  "warengonzaga/tinyclaw": {
-  "forks": 38,
+  "forks": 37,
   "stars": 297
  },
  "whanyu1212/Krill.jl": {
@@ -325,7 +317,7 @@
  },
  "win4r/ClawTeam-OpenClaw": {
   "forks": 316,
-  "stars": 1470
+  "stars": 1471
  },
  "yangkun19921001/PP-Claw": {
   "forks": 9,
