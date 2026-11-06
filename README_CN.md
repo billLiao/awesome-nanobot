@@ -258,14 +258,14 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 297 | ✅ Active | 原始 Tiny Claw，你的个人自主 AI 伴侣 |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 130 | ✅ Active | 安全自主 AI 代理舰队平台 — Docker 隔离、多提供商 |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 328 | ✅ Active | OpenClaw/NanoBot 多用户支持 |
-| [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
+| [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 59 | 🪦 Unmaintained | 类 ZeroBot 的 QQ 频道/群聊机器人框架 |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | 🪦 Unmaintained | 将 Agent Skills 引入任何 MCP 兼容代理的 MCP 服务器 |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | ✅ Active | 基于 nanobot 的个人 AI 助手 — 支持 MiniMax、Gemini 多模型切换 |
-| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 229 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
+| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 230 | 🪦 Unmaintained | Claw IM 客户端，nanobot 频道支持 |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot 集成 |
-| [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
+| [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.6k | ✅ Active | Agent 群体智能 — 将 Claude Code/Codex/OpenClaw/nanobot 等 CLI Agent 编排为团队协作 |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam 的 OpenClaw 适配版 — 以 OpenClaw 为默认代理的多代理群体协调（支持 nanobot）|
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 703 | ✅ Active | 多代理群体协调 |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 705 | ✅ Active | 多代理群体协调 |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust 编写的 AI 代理框架 |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 46 | 🪦 Unmaintained | 具有 5 层安全网关的自我进化 AI 代理框架 |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | 基于 nanobot 的轻量级代理框架 |
@@ -288,7 +288,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | 🪦 Unmaintained | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 2 | 🪦 Unmaintained | Home Assistant 的 nanobot 对话代理自定义组件 |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 🪦 Unmaintained | 在树莓派上运行 nanobot 的配方 |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | ✅ Active | nanobot × SillyTavern，伴侣模式 |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 89 | ✅ Active | nanobot × SillyTavern，伴侣模式 |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 85 | ✅ Active | 自托管 AI 助手框架 — 多渠道（Telegram、Discord、Slack）、并行代理、MCP 支持、带 OAuth 的 WebUI |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | ✅ Active | 支持 openclaw、nanobot、picoclaw、nullclaw 的 Linux 面板 |
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 🪦 Unmaintained | 基于 nanobot 的主动式金融助手 |
@@ -332,7 +332,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 
 | 项目 | Stars | 状态 | 描述 |
 |---------|-------|--------|-------------|
-| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 105 | 🪦 Unmaintained | QQ 机器人插件集合 |
+| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 104 | 🪦 Unmaintained | QQ 机器人插件集合 |
 | [agentclub](https://github.com/dantezhu/agentclub) | ⭐ 6 | ✅ Active | 开源聊天服务器 — 支持人类与 AI 代理，含 Nanobot 频道 |
 | [Nanobot-Feishu](https://github.com/auenger/Nanobot-Feishu) | ⭐ 13 | 🪦 Unmaintained | Nanobot 集成 GLM 和飞书 |
 | [Codex-Listener](https://github.com/TalexCK/Codex-Listener) | ⭐ 15 | 🪦 Unmaintained | 帮助 nanobot 等代理使用 Codex 的监听器 |

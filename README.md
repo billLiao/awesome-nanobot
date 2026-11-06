@@ -172,14 +172,14 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 297 | ✅ Active | The original Tiny Claw as your personal autonomous AI companion |
 | [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 130 | ✅ Active | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 328 | ✅ Active | Multi-user support for OpenClaw/NanoBot |
-| [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 60 | 🪦 Unmaintained | ZeroBot-style QQ channel/group bot framework |
+| [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 59 | 🪦 Unmaintained | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | 🪦 Unmaintained | MCP server that brings Agent Skills to any MCP-compatible agent |
 | [nanobot-custom](https://github.com/deeeeeeeeap/nanobot-custom) | ⭐ 65 | ✅ Active | Personal AI assistant based on nanobot — supports MiniMax, Gemini multi-model switching |
-| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 229 | 🪦 Unmaintained | Claw IM client, nanobot channel support |
+| [MoChat](https://github.com/HKUDS/MoChat) | ⭐ 230 | 🪦 Unmaintained | Claw IM client, nanobot channel support |
 | [ClawWork](https://github.com/HKUDS/ClawWork) | ⭐ 8.6k | 🪦 Unmaintained | OpenClaw/Nanobot integration |
-| [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.5k | ✅ Active | Agent swarm intelligence — orchestrates Claude Code/Codex/OpenClaw/nanobot CLI agents as teams |
+| [ClawTeam](https://github.com/HKUDS/ClawTeam) | ⭐ 5.6k | ✅ Active | Agent swarm intelligence — orchestrates Claude Code/Codex/OpenClaw/nanobot CLI agents as teams |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) | ⭐ 1.5k | ✅ Active | ClawTeam fork fully adapted for OpenClaw — multi-agent swarm coordination with OpenClaw as the default agent (supports nanobot) |
-| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 703 | ✅ Active | Multi-agent swarm coordination |
+| [SwarmClaw](https://github.com/swarmclawai/swarmclaw) | ⭐ 705 | ✅ Active | Multi-agent swarm coordination |
 | [Ferrum Bot](https://github.com/lispking/ferrum-bot) | ⭐ 25 | 🪦 Unmaintained | Rust-based AI agent framework |
 | [GeneClaw](https://github.com/Clawland-AI/Geneclaw) | ⭐ 46 | 🪦 Unmaintained | Self-evolving AI agent framework with 5-layer safety gateway |
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | Lightweight agent framework based on nanobot |
@@ -202,7 +202,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | 🪦 Unmaintained | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
 | [nanobot-hass](https://github.com/licheng5625/nanobot-hass) | ⭐ 2 | 🪦 Unmaintained | Home Assistant custom component for nanobot conversation agent |
 | [nanobot-on-rpi](https://github.com/msaltnet/nanobot-on-rpi) | ⭐ 0 | 🪦 Unmaintained | Recipe for running nanobot on Raspberry Pi |
-| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 88 | ✅ Active | nanobot × SillyTavern, with Companion Mode |
+| [NanoMate](https://github.com/shenmintao/NanoMate) | ⭐ 89 | ✅ Active | nanobot × SillyTavern, with Companion Mode |
 | [ShibaClaw](https://github.com/RikyZ90/ShibaClaw) | ⭐ 85 | ✅ Active | Self-hosted AI assistant framework — Multi-channel (Telegram, Discord, Slack), parallel agents, MCP support, WebUI with OAuth |
 | [clawos](https://github.com/mrytsr/clawos) | ⭐ 17 | ✅ Active | Linux Panel supporting openclaw, nanobot, picoclaw, nullclaw |
 | [Finclaw](https://github.com/martinpmm/Finclaw) | ⭐ 12 | 🪦 Unmaintained | Proactive Finance assistant built on nanobot |
@@ -246,7 +246,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 
 | Project | Stars | Status | Description |
 |---------|-------|--------|-------------|
-| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 105 | 🪦 Unmaintained | QQ bot plugin collection |
+| [NanoBot-Plugin](https://github.com/FloatTech/NanoBot-Plugin) | ⭐ 104 | 🪦 Unmaintained | QQ bot plugin collection |
 | [agentclub](https://github.com/dantezhu/agentclub) | ⭐ 6 | ✅ Active | Open-source chat server for humans & AI agents — with Nanobot channels |
 | [Nanobot-Feishu](https://github.com/auenger/Nanobot-Feishu) | ⭐ 13 | 🪦 Unmaintained | Nanobot + GLM + Feishu integration |
 | [Codex-Listener](https://github.com/TalexCK/Codex-Listener) | ⭐ 15 | 🪦 Unmaintained | Codex Listener that helps agents like nanobot use Codex |
