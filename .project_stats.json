@@ -1,11 +1,15 @@
 {
+ "0xlucac/nanobot-channel-weixin": {
+  "forks": 6,
+  "stars": 14
+ },
  "450home/nanobot-a2a-proxy": {
   "forks": 0,
   "stars": 1
  },
  "AbuZar-Ansarii/NanoBot-Android": {
-  "forks": 7,
-  "stars": 40
+  "forks": 8,
+  "stars": 42
  },
  "Ahmadkhaled11/Free-Cloud-AI-Agent": {
   "forks": 8,
@@ -33,7 +37,7 @@
  },
  "Good0007/nanobot-webui": {
   "forks": 41,
-  "stars": 149
+  "stars": 148
  },
  "HITsz-TMG/KnowAct": {
   "forks": 41,
@@ -52,8 +56,8 @@
   "stars": 230
  },
  "HKUDS/nanobot": {
-  "forks": 8715,
-  "stars": 49905
+  "forks": 8720,
+  "stars": 49935
  },
  "JunSuzuki1973/MetalClaw": {
   "forks": 0,
@@ -115,17 +119,13 @@
   "forks": 0,
   "stars": 0
  },
- "alvis233/nanobot-channel-weixin": {
-  "forks": 6,
-  "stars": 14
- },
  "auenger/Nanobot-Feishu": {
   "forks": 1,
   "stars": 13
  },
  "bcefghj/learn-nanobot": {
   "forks": 89,
-  "stars": 894
+  "stars": 895
  },
  "billLiao/awesome-nanobot": {
   "forks": 3,
@@ -240,8 +240,8 @@
   "stars": 12
  },
  "nanocoai/nanoclaw": {
-  "forks": 12665,
-  "stars": 31093
+  "forks": 12661,
+  "stars": 31098
  },
  "obot-platform/nanobot": {
   "forks": 204,
@@ -277,7 +277,7 @@
  },
  "sine-io/byte-of-nanobot": {
   "forks": 16,
-  "stars": 115
+  "stars": 116
  },
  "swarmclawai/swarmclaw": {
   "forks": 145,
