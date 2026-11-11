@@ -187,7 +187,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | Automated installation script (Docker + Redis + Qdrant) |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 41 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | Optimal System Agent — maximizes signal extraction |
-| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 73 | 🪦 Unmaintained | One command to uninstall ALL Claw-family AI agents. Zero residual files |
+| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 74 | 🪦 Unmaintained | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31.1k | ✅ Active | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 18 | 🪦 Unmaintained | Master AI Agent Assistant in 3 Days — guided study plan |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking knowledge base integration — RAG, semantic search, vector embeddings |
@@ -196,7 +196,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | Dockerized setup for nanobot |
 | [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 148 | ✅ Active | A self-hosted web management panel for nanobot-ai |
-| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | 🪦 Unmaintained | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
+| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | ✅ Active | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | 🪦 Unmaintained | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 1 | 🪦 Unmaintained | A2A Proxy for nanobot agent communication |
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | 🪦 Unmaintained | TypeScript version of nanobot — ultra-lightweight personal AI assistant framework |
@@ -212,6 +212,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | Self-hosted companion runtime (nanobot fork) — web UI, chat channels, proactive rituals, markdown skills |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | Hard fork of nanobot with significant optimizations — interactive onboarding, WeChat channel support |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | Experimental agent runtime derived from nanobot — persistent memory, multi-channel presence (WhatsApp/Telegram/Discord/Email/CLI) |
+| [job-hunting-workbench](https://github.com/Egcoo/job-hunting-workbench) | ⭐ 20 | ✅ Active | AI job-hunting prep workbench built on nanobot — resume management, job screenshot recognition, resource-grounded chat, prep task tracking |
 
 ## Desktop & GUI
 

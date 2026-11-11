@@ -273,7 +273,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | 自动化安装脚本（Docker + Redis + Qdrant） |
 | [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 41 | 🪦 Unmaintained | Android 个人 AI 助手 — 灵感来自 nanobot |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | 最优系统代理 — 最大化信号提取 |
-| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 73 | 🪦 Unmaintained | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
+| [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 74 | 🪦 Unmaintained | 一键卸载所有 Claw 系列 AI 代理，无残留文件 |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31.1k | ✅ Active | OpenClaw 轻量替代方案 — 容器化运行，支持 WhatsApp、Telegram、Slack、Discord、Gmail |
 | [nanobot-study](https://github.com/WangyiNTU/nanobot-study) | ⭐ 18 | 🪦 Unmaintained | 3 天掌握 AI 代理助手 — 学习计划 |
 | [nanobot-viking](https://github.com/tankyhsu/nanobot-viking) | ⭐ 10 | 🪦 Unmaintained | OpenViking 知识库集成 — RAG、语义搜索、向量嵌入 |
@@ -282,7 +282,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | nanobot 的 Docker 部署配置 |
 | [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 148 | ✅ Active | nanobot 自托管 Web 管理面板 |
-| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | 🪦 Unmaintained | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
+| [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | ✅ Active | nanobot & Claude Code 驱动的自动化任务流水线 — 多阶段工作流，心跳调度器 |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | 🪦 Unmaintained | Nanobot 的 SearXNG 搜索技能 — 自托管搜索集成 |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 1 | 🪦 Unmaintained | nanobot 代理通信的 A2A 代理 |
 | [nanobot-ts](https://github.com/rzx007/nanobot-ts) | ⭐ 14 | 🪦 Unmaintained | nanobot 的 TypeScript 版本 — 超轻量个人 AI 助手框架 |
@@ -298,6 +298,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | 基于 nanobot 衍生的实验性 Agent 运行时 — 持久记忆、多渠道在线（WhatsApp/Telegram/Discord/Email/CLI） |
+| [job-hunting-workbench](https://github.com/Egcoo/job-hunting-workbench) | ⭐ 20 | ✅ Active | 基于 nanobot 的 AI 求职准备工作台 — 多版简历管理、岗位截图识别、带资料对话、准备任务跟踪 |
 
 ## 桌面客户端
 
