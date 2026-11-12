@@ -298,7 +298,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | 基于 nanobot 衍生的实验性 Agent 运行时 — 持久记忆、多渠道在线（WhatsApp/Telegram/Discord/Email/CLI） |
-| [job-hunting-workbench](https://github.com/Egcoo/job-hunting-workbench) | ⭐ 20 | ✅ Active | 基于 nanobot 的 AI 求职准备工作台 — 多版简历管理、岗位截图识别、带资料对话、准备任务跟踪 |
+| [job-hunting-workbench](https://github.com/Egcoo/job-hunting-workbench) | ⭐ 22 | ✅ Active | 基于 nanobot 的 AI 求职准备工作台 — 多版简历管理、岗位截图识别、带资料对话、准备任务跟踪 |
 
 ## 桌面客户端
 
@@ -325,7 +325,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 7 | 🪦 Unmaintained | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | 🪦 Unmaintained | 用于学习的轻量级 LLM 代理框架 |
 | [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | 🪦 Unmaintained | Go 语言版 nanobot |
-| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 43 | ✅ Active | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
+| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 43 | 🪦 Unmaintained | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | 🪦 Unmaintained | 纯 Julia 编写的轻量级 nanobot/OpenClaw 变体 |
 | [nanobot-rs (yjhmelody)](https://github.com/yjhmelody/nanobot-rs) | ⭐ 16 | ✅ Active | 极简 openclaw 风格 AI 代理（Rust） |
 
