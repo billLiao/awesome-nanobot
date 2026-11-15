@@ -195,7 +195,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-feishu-specialized](https://github.com/Wuuu-uu/nanobot-feishu-specilized) | ⭐ 70 | ✅ Active | Feishu-specific version with enhanced features |
 | [LemonClaw](https://github.com/hedging8563/lemonclaw) | ⭐ 1 | 🪦 Unmaintained | AI Agent Platform (MIT, fork of nanobot) |
 | [nanobot-docker (ciri)](https://github.com/ciri/nanobot-docker) | ⭐ 6 | 🪦 Unmaintained | Dockerized setup for nanobot |
-| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 148 | ✅ Active | A self-hosted web management panel for nanobot-ai |
+| [nanobot-webui (Good0007)](https://github.com/Good0007/nanobot-webui) | ⭐ 147 | ✅ Active | A self-hosted web management panel for nanobot-ai |
 | [nanobot-task-pipeline](https://github.com/Minggnim-jpg/nanobot-task-pipeline) | ⭐ 14 | ✅ Active | Automated task pipeline powered by nanobot & Claude Code — multi-stage workflow with heartbeat scheduler |
 | [nanobot-searxng-search](https://github.com/SJK-py/nanobot-searxng-search) | ⭐ 4 | 🪦 Unmaintained | SearXNG search skill for Nanobot — self-hosted search integration |
 | [nanobot-a2a-proxy](https://github.com/450home/nanobot-a2a-proxy) | ⭐ 1 | 🪦 Unmaintained | A2A Proxy for nanobot agent communication |
