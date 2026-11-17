@@ -295,7 +295,7 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [smith](https://github.com/vseplet/smith) | ⭐ 9 | 🪦 Unmaintained | 可定制的轻量级 Telegram Clawdbot |
 | [Claude-Zeroclaw](https://github.com/vaskesvo5321/Claude-Zeroclaw) | ⭐ 7 | ✅ Active | 轻量级守护进程 — 将 Claude Code 变为任务调度器和 Telegram 助手 |
 | [KnowAct](https://github.com/HITsz-TMG/KnowAct) | ⭐ 481 | ✅ Active | 基于 nanobot 的递归自我改进个人助手 |
-| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 304 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
+| [Syll](https://github.com/THU-SAGE/syll) | ⭐ 369 | ✅ Active | 自托管伴侣运行时（nanobot 分支）— Web UI、聊天频道、主动仪式、Markdown 技能 |
 | [weavbot](https://github.com/yankeguo-deprecated/weavbot) | ⭐ 9 | ✅ Active | nanobot 硬分叉，深度优化版 — 交互式引导配置、支持微信渠道 |
 | [Galyarder Agent](https://github.com/galyarderlabs/galyarder-agent) | ⭐ 10 | ✅ Active | 基于 nanobot 衍生的实验性 Agent 运行时 — 持久记忆、多渠道在线（WhatsApp/Telegram/Discord/Email/CLI） |
 | [job-hunting-workbench](https://github.com/Egcoo/job-hunting-workbench) | ⭐ 22 | ✅ Active | 基于 nanobot 的 AI 求职准备工作台 — 多版简历管理、岗位截图识别、带资料对话、准备任务跟踪 |
@@ -324,8 +324,8 @@ nanobot gateway --config ~/.nanobot-feishu/config.json --port 18792
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | 🪦 Unmaintained | Go 语言轻量级、数据驱动的 AI 助手框架。18+ LLM 提供商、9 个聊天频道、MCP 工具 |
 | [nanobot-go](https://github.com/cuichuankai/nanobot-go) | ⭐ 7 | 🪦 Unmaintained | nanobot 的 Go 语言实现 |
 | [mini_nanobot](https://github.com/mu-xi-mu-xi/mini_nanobot) | ⭐ 12 | 🪦 Unmaintained | 用于学习的轻量级 LLM 代理框架 |
-| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 39 | 🪦 Unmaintained | Go 语言版 nanobot |
-| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 43 | 🪦 Unmaintained | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
+| [PP-Claw](https://github.com/yangkun19921001/PP-Claw) | ⭐ 40 | 🪦 Unmaintained | Go 语言版 nanobot |
+| [nanobot-eino](https://github.com/iamclancyliang/nanobot-eino) | ⭐ 44 | 🪦 Unmaintained | 基于 Golang 和 Cloudwego Eino 框架的 AI Agent 个人助手 |
 | [Krill.jl](https://github.com/whanyu1212/Krill.jl) | ⭐ 29 | 🪦 Unmaintained | 纯 Julia 编写的轻量级 nanobot/OpenClaw 变体 |
 | [nanobot-rs (yjhmelody)](https://github.com/yjhmelody/nanobot-rs) | ⭐ 16 | ✅ Active | 极简 openclaw 风格 AI 代理（Rust） |
 
