@@ -170,7 +170,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot](https://github.com/obot-platform/nanobot) | ⭐ 1.4k | 🗄️ Archived | Build MCP Agents — same-name project (MCP agent framework), unrelated to HKUDS/nanobot |
 | [NanoResearch](https://github.com/OpenRaiser/NanoResearch) | ⭐ 1.3k | ✅ Active | 🦞+🔬 Autonomous AI Research Assistant powered by nanobot |
 | [TinyClaw (warengonzaga)](https://github.com/warengonzaga/tinyclaw) | ⭐ 296 | ✅ Active | The original Tiny Claw as your personal autonomous AI companion |
-| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 130 | ✅ Active | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
+| [OpenLegion](https://github.com/openlegion-ai/openlegion) | ⭐ 131 | ✅ Active | Secure autonomous AI agent fleet platform — Docker-isolated, multi-provider |
 | [MultiUserClaw](https://github.com/johnson7788/MultiUserClaw) | ⭐ 330 | ✅ Active | Multi-user support for OpenClaw/NanoBot |
 | [NanoBot](https://github.com/fumiama/NanoBot) | ⭐ 59 | 🪦 Unmaintained | ZeroBot-style QQ channel/group bot framework |
 | [FastSkills](https://github.com/matthewlee0102/FastSkills) | ⭐ 16 | 🪦 Unmaintained | MCP server that brings Agent Skills to any MCP-compatible agent |
@@ -185,7 +185,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [TinyClaw (D-Sketon)](https://github.com/D-Sketon/tinyclaw) | ⭐ 3 | 🪦 Unmaintained | Lightweight agent framework based on nanobot |
 | [nanobot-web-console](https://github.com/tankyhsu/nanobot-web-console) | ⭐ 13 | 🪦 Unmaintained | Single-file Web console with real-time streaming chat |
 | [nanobot-setup](https://github.com/volkergrabbe/nanobot-setup) | ⭐ 2 | 🪦 Unmaintained | Automated installation script (Docker + Redis + Qdrant) |
-| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 41 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
+| [NanoBot-Android](https://github.com/AbuZar-Ansarii/NanoBot-Android) | ⭐ 42 | 🪦 Unmaintained | Personal AI assistant for Android — nanobot-inspired |
 | [OSA](https://github.com/Miosa-osa/OSA) | ⭐ 79 | ✅ Active | Optimal System Agent — maximizes signal extraction |
 | [ByeByeClaw](https://github.com/wanikua/byebyeclaw) | ⭐ 74 | 🪦 Unmaintained | One command to uninstall ALL Claw-family AI agents. Zero residual files |
 | [NanoClaw](https://github.com/nanocoai/nanoclaw) | ⭐ 31.1k | ✅ Active | Lightweight alternative to OpenClaw — runs in containers, connects to WhatsApp, Telegram, Slack, Discord, Gmail |
@@ -232,7 +232,7 @@ nanobot supports Model Context Protocol (MCP) for extending capabilities:
 | [nanobot-rs (open-vibe)](https://github.com/open-vibe/nanobot-rs) | ⭐ 10 | 🪦 Unmaintained | Rust port |
 | [sharpclaw](https://github.com/imxcstar/sharpclaw) | ⭐ 25 | 🪦 Unmaintained | AI agent with long-term memory (.NET 10) |
 | [maxclaw](https://github.com/Lichas/maxclaw) | ⭐ 230 | ✅ Active | Ultra-Lightweight AI Assistant in Go |
-| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 67 | ✅ Active | Next Gen AI Agent (nanobot-rs-pro, Rust) |
+| [agent-diva](https://github.com/ProjectViVy/agent-diva) | ⭐ 68 | ✅ Active | Next Gen AI Agent (nanobot-rs-pro, Rust) |
 | [MetalClaw](https://github.com/JunSuzuki1973/MetalClaw) | ⭐ 2 | 🪦 Unmaintained | Personalized AI assistant fork |
 | [nano-claw](https://github.com/hustcc/nano-claw) | ⭐ 68 | 🪦 Unmaintained | 🦞 Claw is a personal AI assistant you run on your own devices, but nano (TypeScript) |
 | [nanobot-golang](https://github.com/ajiany/nanobot-golang) | ⭐ 0 | 🪦 Unmaintained | Lightweight, data-driven AI assistant framework in Go. 18+ LLM providers, 9 chat channels, MCP tools |
